@@ -1,0 +1,93 @@
+company_id,company_name,broad_sector,return_on_equity_pct,debt_to_equity,net_profit_margin_pct,free_cash_flow_cr,revenue_cagr_5yr,pat_cagr_5yr,cluster_id,cluster_label
+ABB,Abbott India Ltd,Industrials,,0.017,,,,,0,Cluster 0: Balanced Compounders
+ADANIENSOL,Adani Energy Solutions Ltd,Energy,,1.8589,,,,,0,Cluster 0: Balanced Compounders
+ADANIENT,Adani Enterprises Ltd,Industrials,,1.9197,,,,,0,Cluster 0: Balanced Compounders
+ADANIGREEN,Adani Green Energy Ltd,Energy,,6.3758,,,,,0,Cluster 0: Balanced Compounders
+ADANIPORTS,Adani Ports & Special Economic Zone Ltd,Industrials,,0.883,,,,,0,Cluster 0: Balanced Compounders
+ADANIPOWER,Adani Power Ltd,Energy,,0.6739,,,,,0,Cluster 0: Balanced Compounders
+AMBUJACEM,Ambuja Cements Ltd,Materials,,0.0155,,,,,0,Cluster 0: Balanced Compounders
+APOLLOHOSP,Apollo Hospitals Chain of Indian private hospitals,Healthcare,,0.9827,,,,,0,Cluster 0: Balanced Compounders
+ASIANPAINT,Asian Paints Indian Multi-National Paint and Coating Manufacturing Company,Materials,,0.1396,,,,,0,Cluster 0: Balanced Compounders
+ATGL,Adani Total Gas Ltd,Energy,,0.3725,,,,,0,Cluster 0: Balanced Compounders
+AXISBANK,Axis Bank Ltd,Financials,15.8327,8.2491,22.7313,,14.7436,39.6723,2,Cluster 2: Capital Intensive / Debt
+BAJAJ-AUTO,Bajaj Auto Ltd,Consumer Discretionary,,0.1693,,,,,0,Cluster 0: Balanced Compounders
+BAJAJFINSV,Bajaj Finserv Ltd,Financials,,4.6641,,,,,0,Cluster 0: Balanced Compounders
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,Financials,,0.0008,,,,,0,Cluster 0: Balanced Compounders
+BAJFINANCE,Bajaj Finance Ltd,Financials,,3.7351,,,,,0,Cluster 0: Balanced Compounders
+BANKBARODA,Bank of Baroda,Financials,15.7619,12.1437,15.9395,,17.4773,74.5059,1,Cluster 1: High Growth & Quality
+BEL,Bharat Electronics Ltd,Industrials,,0.8571,,,,,0,Cluster 0: Balanced Compounders
+BHARTIARTL,Bharti Airtel Ltd,Communication Services,,2.5895,,,,,0,Cluster 0: Balanced Compounders
+BHEL,Bharat Heavy Electricals Limited,Industrials,,0.3772,,,,,0,Cluster 0: Balanced Compounders
+BOSCHLTD,Bosch Ltd,Consumer Discretionary,,0.0024,,,,,0,Cluster 0: Balanced Compounders
+BPCL,Bharat Petroleum Corporation Ltd,Energy,,0.7636,,,,,0,Cluster 0: Balanced Compounders
+BRITANNIA,Britannia Industries Ltd,Consumer Staples,,0.8579,,,,,0,Cluster 0: Balanced Compounders
+CANBK,Canara Bank,Financials,16.7161,14.8674,13.9352,,18.1756,85.7753,1,Cluster 1: High Growth & Quality
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,Financials,,7.3767,,,,,0,Cluster 0: Balanced Compounders
+CIPLA,Cipla Ltd,Healthcare,,0.0163,,,,,0,Cluster 0: Balanced Compounders
+COALINDIA,Coal India Ltd,Materials,,0.0812,,,,,0,Cluster 0: Balanced Compounders
+DABUR,Dabur India Ltd,Consumer Staples,,0.1691,,,,,0,Cluster 0: Balanced Compounders
+DIVISLAB,Divis Laboratories Ltd,Healthcare,,0.0006,,,,,0,Cluster 0: Balanced Compounders
+DLF,DLF Ltd,Real Estate,,0.1066,,,,,0,Cluster 0: Balanced Compounders
+DMART,Avenue Supermarts Ltd,Consumer Discretionary,,0.0354,,,,,0,Cluster 0: Balanced Compounders
+DRREDDY,Dr Reddys Laboratories Ltd,Healthcare,,0.1579,,,,,0,Cluster 0: Balanced Compounders
+EICHERMOT,Eicher Motors Ltd,Consumer Discretionary,,0.0213,,,,,0,Cluster 0: Balanced Compounders
+GAIL,GAIL (India) Ltd,Energy,,0.2342,,,,,0,Cluster 0: Balanced Compounders
+GODREJCP,Godrej Consumer Products Ltd,Consumer Staples,,0.3145,,,,,0,Cluster 0: Balanced Compounders
+GRASIM,Grasim Industries Ltd,Industrials,,1.7021,,,,,0,Cluster 0: Balanced Compounders
+HAL,Hindustan Aeronautics Ltd,Industrials,,0.599,,,,,0,Cluster 0: Balanced Compounders
+HAVELLS,Havells India Ltd,Industrials,,0.0426,,,,,0,Cluster 0: Balanced Compounders
+HCLTECH,HCL Technologies Ltd,Information Technology,,0.0841,,,,,0,Cluster 0: Balanced Compounders
+HDFCBANK,HDFC Bank Ltd,Financials,14.3397,6.8088,23.0729,,21.951,23.8651,2,Cluster 2: Capital Intensive / Debt
+HDFCLIFE,HDFC Life Insurance Company Ltd,Financials,,0.0609,,,,,0,Cluster 0: Balanced Compounders
+HEROMOTOCO,Hero MotoCorp Ltd,Consumer Discretionary,,0.0309,,,,,0,Cluster 0: Balanced Compounders
+HINDALCO,Hindalco Industries Ltd,Materials,,0.5293,,,,,0,Cluster 0: Balanced Compounders
+HINDUNILVR,Hindustan Unilever Ltd,Consumer Staples,,0.0325,,,,,0,Cluster 0: Balanced Compounders
+ICICIBANK,ICICI Bank Ltd,Financials,17.9903,6.4456,28.888,,17.2509,51.9488,2,Cluster 2: Capital Intensive / Debt
+ICICIGI,ICICI Lombard General Insurance Company Ltd,Financials,,0.0,,,,,0,Cluster 0: Balanced Compounders
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,Financials,,0.0,,,,,0,Cluster 0: Balanced Compounders
+INDIGO,Interglobe Aviation Ltd,Consumer Discretionary,,0.021,,,,,0,Cluster 0: Balanced Compounders
+INDUSINDBK,IndusInd Bank Ltd,Financials,14.2523,6.8857,19.5637,,15.4956,22.0775,2,Cluster 2: Capital Intensive / Debt
+INFY,Infosys Ltd,Information Technology,,0.0973,,,,,0,Cluster 0: Balanced Compounders
+IOC,Indian Oil Corporation,Energy,,0.9009,,,,,0,Cluster 0: Balanced Compounders
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,Consumer Discretionary,,0.0119,,,,,0,Cluster 0: Balanced Compounders
+IRFC,Indian Railway Finance Corporation Ltd,Financials,,7.8327,,,,,0,Cluster 0: Balanced Compounders
+ITC,ITC Ltd,Consumer Staples,,0.004,,,,,0,Cluster 0: Balanced Compounders
+JINDALSTEL,Jindal Steel & Power Ltd,Materials,,0.3647,,,,,0,Cluster 0: Balanced Compounders
+JIOFIN,Jio Financial Services Ltd,Financials,,0.0,,,,,0,Cluster 0: Balanced Compounders
+JSWENERGY,JSW Energy Ltd,Energy,,1.103,,,,,0,Cluster 0: Balanced Compounders
+JSWSTEEL,JSW Steel Ltd,Materials,,1.1957,,,,,0,Cluster 0: Balanced Compounders
+KOTAKBANK,Kotak Mahindra Bank Ltd,Financials,14.013,4.0037,32.3862,,13.5196,20.382,2,Cluster 2: Capital Intensive / Debt
+LICI,Life Insurance Corporation of India,Financials,,0.0001,,,,,0,Cluster 0: Balanced Compounders
+LODHA,Macrotech Developers Ltd,Real Estate,,0.4394,,,,,0,Cluster 0: Balanced Compounders
+LT,Larsen & Toubro Ltd,Industrials,,0.1104,,,,,0,Cluster 0: Balanced Compounders
+LTIM,LTIMindtree Ltd,Information Technology,,0.1104,,,,,0,Cluster 0: Balanced Compounders
+M&M,Mahindra & Mahindra Ltd,Consumer Discretionary,,1.6573,,,,,0,Cluster 0: Balanced Compounders
+MARUTI,Maruti Suzuki India Ltd,Consumer Discretionary,,0.0018,,,,,0,Cluster 0: Balanced Compounders
+MOTHERSON,Samvardhana Motherson International Ltd,Consumer Discretionary,,0.7789,,,,,0,Cluster 0: Balanced Compounders
+NAUKRI,Info Edge (India) Ltd,Communication Services,,0.0061,,,,,0,Cluster 0: Balanced Compounders
+NESTLEIND,Nestle India Ltd,Consumer Staples,,0.0927,,,,,0,Cluster 0: Balanced Compounders
+NHPC,NHPC Ltd,Energy,,0.8521,,,,,0,Cluster 0: Balanced Compounders
+NTPC,NTPC Ltd,Energy,,1.4382,,,,,0,Cluster 0: Balanced Compounders
+ONGC,Oil & Natural Gas Corpn Ltd,Energy,,0.5436,,,,,0,Cluster 0: Balanced Compounders
+PFC,Power Finance Corporation Ltd,Financials,,8.2733,,,,,0,Cluster 0: Balanced Compounders
+PIDILITIND,Pidilite Industries Ltd,Materials,,0.0435,,,,,0,Cluster 0: Balanced Compounders
+PNB,Punjab National Bank,Financials,61.3206,3.6843,8.3959,,15.9021,,3,Cluster 3: Moderate Yield / Stable
+POWERGRID,Power Grid Corporation of India Ltd,Energy,,1.3314,,,,,0,Cluster 0: Balanced Compounders
+RECLTD,REC Ltd,Financials,,6.5789,,,,,0,Cluster 0: Balanced Compounders
+RELIANCE,Reliance Industries Ltd,Energy,,0.4363,,,,,0,Cluster 0: Balanced Compounders
+SBILIFE,SBI Life Insurance Company Ltd,Financials,,0.0,,,,,0,Cluster 0: Balanced Compounders
+SBIN,State Bank of India,Financials,,0.0,15.8344,,11.6338,83.407,2,Cluster 2: Capital Intensive / Debt
+SHREECEM,Shree Cement Ltd,Materials,,0.0806,,,,,0,Cluster 0: Balanced Compounders
+SHRIRAMFIN,Shriram Finance Ltd,Financials,,3.9666,,,,,0,Cluster 0: Balanced Compounders
+SIEMENS,Siemens Ltd,Industrials,17.6988,0.0182,12.2212,,11.1934,19.8534,2,Cluster 2: Capital Intensive / Debt
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,Healthcare,,0.0372,,,,,0,Cluster 0: Balanced Compounders
+TATACONSUM,Tata Consumer Products Ltd,Consumer Staples,,0.1545,,,,,0,Cluster 0: Balanced Compounders
+TATAMOTORS,Tata Motors Ltd,Consumer Discretionary,,1.0543,,,,,0,Cluster 0: Balanced Compounders
+TATAPOWER,Tata Power Company Ltd,Energy,,1.7314,,,,,0,Cluster 0: Balanced Compounders
+TATASTEEL,Tata Steel Ltd,Materials,,1.1026,,,,,0,Cluster 0: Balanced Compounders
+TCS,Tata Consultancy Services Ltd,Information Technology,,0.0891,,,,,0,Cluster 0: Balanced Compounders
+TECHM,Tech Mahindra Ltd,Information Technology,,0.0769,,,,,0,Cluster 0: Balanced Compounders
+TITAN,Titan Company Ltd,Consumer Discretionary,,2.2235,,,,,0,Cluster 0: Balanced Compounders
+TORNTPHARM,Torrent Pharmaceuticals Ltd,Healthcare,,0.4168,,,,,0,Cluster 0: Balanced Compounders
+TRENT,Trent Ltd,Consumer Discretionary,,0.3936,,,,,0,Cluster 0: Balanced Compounders
+TVSMOTOR,TVS Motor Company Ltd,Consumer Discretionary,,1.8839,,,,,0,Cluster 0: Balanced Compounders

@@ -1,80 +1,64 @@
--- 10 Exploratory SQL Queries for Nifty 100 Data Foundation (Sprint 1)
+-- Nifty 100 Financial Intelligence Platform - Exploratory SQL Queries
 
--- Query 1: Verification of Master Company Count
-SELECT COUNT(*) AS total_companies FROM companies;
-
--- Query 2: Distribution of Data Coverage (Years per Company in Profit & Loss)
-SELECT company_id, COUNT(year) AS years_count
-FROM profitandloss
-GROUP BY company_id
-ORDER BY years_count DESC;
-
--- Query 3: Companies with less than 5 years of financial history
-SELECT company_id, COUNT(year) AS years_count
-FROM profitandloss
-GROUP BY company_id
-HAVING years_count < 5;
-
--- Query 4: Total Row Counts Across All 10 Tables
-SELECT 'companies' AS table_name, COUNT(*) AS row_count FROM companies
-UNION ALL
-SELECT 'profitandloss', COUNT(*) FROM profitandloss
-UNION ALL
-SELECT 'balancesheet', COUNT(*) FROM balancesheet
-UNION ALL
-SELECT 'cashflow', COUNT(*) FROM cashflow
-UNION ALL
-SELECT 'analysis', COUNT(*) FROM analysis
-UNION ALL
-SELECT 'documents', COUNT(*) FROM documents
-UNION ALL
-SELECT 'prosandcons', COUNT(*) FROM prosandcons
-UNION ALL
-SELECT 'sectors', COUNT(*) FROM sectors
-UNION ALL
-SELECT 'stock_prices', COUNT(*) FROM stock_prices
-UNION ALL
-SELECT 'market_cap', COUNT(*) FROM market_cap;
-
--- Query 5: Sector-Wise Company Count
-SELECT broad_sector, COUNT(company_id) AS company_count
-FROM sectors
-GROUP BY broad_sector
-ORDER BY company_count DESC;
-
--- Query 6: Top 10 Revenue Companies in Latest Available Year
-SELECT p.company_id, c.company_name, p.year, p.sales
-FROM profitandloss p
-JOIN companies c ON p.company_id = c.id
-WHERE p.year = (SELECT MAX(year) FROM profitandloss)
-ORDER BY p.sales DESC
+-- 1. Top 10 Companies by Return on Equity (ROE)
+SELECT fr.company_id, c.company_name, s.broad_sector, fr.return_on_equity_pct
+FROM financial_ratios fr
+JOIN companies c ON fr.company_id = c.id
+LEFT JOIN sectors s ON fr.company_id = s.company_id
+WHERE fr.year != 'PARSE_ERROR'
+ORDER BY fr.return_on_equity_pct DESC
 LIMIT 10;
 
--- Query 7: Identification of Zero-Debt Companies (Latest Year)
-SELECT b.company_id, c.company_name, b.year, b.borrowings
-FROM balancesheet b
-JOIN companies c ON b.company_id = c.id
-WHERE b.borrowings = 0 AND b.year = (SELECT MAX(year) FROM balancesheet)
-ORDER BY c.company_name;
+-- 2. Highest 5-Year Revenue CAGR Companies
+SELECT fr.company_id, c.company_name, fr.revenue_cagr_5yr, fr.cagr_flag
+FROM financial_ratios fr
+JOIN companies c ON fr.company_id = c.id
+WHERE fr.revenue_cagr_5yr IS NOT NULL AND fr.revenue_cagr_5yr != 0
+ORDER BY fr.revenue_cagr_5yr DESC
+LIMIT 10;
 
--- Query 8: Consistent Positive Cash Flow Companies (Past 5 Years)
-SELECT company_id, COUNT(*) AS positive_cf_years
-FROM cashflow
-WHERE operating_activity > 0
-GROUP BY company_id
-HAVING positive_cf_years >= 5;
+-- 3. Lowest Debt-to-Equity (Zero Debt Blue Chips)
+SELECT fr.company_id, c.company_name, fr.debt_to_equity, fr.return_on_equity_pct
+FROM financial_ratios fr
+JOIN companies c ON fr.company_id = c.id
+WHERE fr.debt_to_equity = 0.0 AND fr.return_on_equity_pct > 15.0
+ORDER BY fr.return_on_equity_pct DESC
+LIMIT 10;
 
--- Query 9: Annual Report URL Availability Count per Company
-SELECT c.id AS company_id, c.company_name, COUNT(d.year) AS report_count
-FROM companies c
-LEFT JOIN documents d ON c.id = d.company_id
-GROUP BY c.id, c.company_name
-ORDER BY report_count ASC;
+-- 4. Highest Free Cash Flow (FCF in Crore)
+SELECT fr.company_id, c.company_name, fr.free_cash_flow_cr, fr.cfo_pat_ratio
+FROM financial_ratios fr
+JOIN companies c ON fr.company_id = c.id
+ORDER BY fr.free_cash_flow_cr DESC
+LIMIT 10;
 
--- Query 10: Market Capitalization Overview (Latest Year)
-SELECT m.company_id, s.broad_sector, m.year, m.market_cap_crore
-FROM market_cap m
-JOIN sectors s ON m.company_id = s.company_id
-WHERE m.year = (SELECT MAX(year) FROM market_cap)
-ORDER BY m.market_cap_crore DESC
+-- 5. Peer Group Percentile Ranking Comparison
+SELECT pp.peer_group_name, pp.company_id, pp.metric, pp.value, pp.percentile_rank
+FROM peer_percentiles pp
+WHERE pp.metric = 'return_on_equity_pct'
+ORDER BY pp.peer_group_name, pp.percentile_rank DESC;
+
+-- 6. Broad Sector Summary (Average ROE & Total Market Cap)
+SELECT s.broad_sector, COUNT(c.id) as company_count,
+       AVG(fr.return_on_equity_pct) as avg_roe,
+       SUM(mc.market_cap_crore) as total_mcap_cr
+FROM sectors s
+JOIN companies c ON s.company_id = c.id
+LEFT JOIN financial_ratios fr ON c.id = fr.company_id
+LEFT JOIN market_cap mc ON c.id = mc.company_id
+GROUP BY s.broad_sector
+ORDER BY total_mcap_cr DESC;
+
+-- 7. Valuation Multiple & Intrinsic Valuation Ranking
+SELECT vm.company_id, c.company_name, vm.valuation_score, vm.earnings_yield, vm.fcf_yield, vm.peg_ratio
+FROM valuation_metrics vm
+JOIN companies c ON vm.company_id = c.id
+ORDER BY vm.valuation_score DESC
 LIMIT 15;
+
+-- 8. Composite Investment Score & Rating Breakdown
+SELECT ins.company_id, c.company_name, ins.investment_score, ins.investment_rating,
+       ins.quality_score, ins.growth_score, ins.value_score, ins.health_score, ins.momentum_score
+FROM investment_scores ins
+JOIN companies c ON ins.company_id = c.id
+ORDER BY ins.investment_score DESC;

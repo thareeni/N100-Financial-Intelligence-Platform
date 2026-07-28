@@ -207,7 +207,8 @@ class PeerComparisonEngine:
         pg_df = pd.read_sql_query(sql, conn)
         conn.close()
 
-        merged_df = pd.merge(pg_df, universe_df, on="company_id", how="inner")
+        merged_df = pd.merge(pg_df, universe_df, on="company_id", how="right")
+        merged_df["peer_group_name"] = merged_df["peer_group_name"].fillna(merged_df["broad_sector"].fillna("Nifty 100 Universe"))
 
         if merged_df.empty:
             logger.warning("No data found for radar chart generation.")
