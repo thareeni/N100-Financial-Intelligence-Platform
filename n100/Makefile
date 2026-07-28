@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-.PHONY: load ratios screener peer test clean format lint
-=======
-.PHONY: load ratios test clean format lint
->>>>>>> f81a2dbcaaaeea2037fd8e762649a9c1a489d5d3
+.PHONY: load ratios screener peer health valuation investment test clean format lint
 
 load:
 	python -m src.etl.loader
@@ -10,15 +6,24 @@ load:
 ratios:
 	python -m src.analytics.runner
 
-<<<<<<< HEAD
 screener:
 	python -m src.screener.engine
 
 peer:
 	python -m src.analytics.peer
 
-=======
->>>>>>> f81a2dbcaaaeea2037fd8e762649a9c1a489d5d3
+health:
+	python -m src.analytics.financial_health
+
+dupont:
+	python -m src.analytics.dupont
+
+valuation:
+	python -m src.analytics.valuation
+
+investment:
+	python -m src.analytics.investment_score
+
 test:
 	pytest tests/ --html=output/pytest_report.html --self-contained-html
 

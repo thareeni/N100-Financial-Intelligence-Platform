@@ -172,7 +172,9 @@ class ETLLoader:
             rejected = in_cnt - out_cnt
 
             if not df.empty:
-                df.to_sql(table, conn, if_exists="append", index=False)
+                table_cols = [r[1] for r in conn.execute(f"PRAGMA table_info('{table}');").fetchall()]
+                valid_cols = [c for c in df.columns if c in table_cols]
+                df[valid_cols].to_sql(table, conn, if_exists="append", index=False)
 
             t_elapsed = round(time.time() - t_start, 4)
             status = "SUCCESS" if rejected == 0 else "WARNING_REJECTIONS"

@@ -1,54 +1,46 @@
-<<<<<<< HEAD
--- Nifty 100 Financial Intelligence Platform - SQLite Database Schema (Sprint 1, 2 & 3)
-=======
--- Nifty 100 Financial Intelligence Platform - SQLite Database Schema (Sprint 1 & Sprint 2)
->>>>>>> f81a2dbcaaaeea2037fd8e762649a9c1a489d5d3
+-- SQLite Schema for Nifty 100 Financial Intelligence Platform
+-- Target Database: nifty100.db (SQLite)
+-- Database Standard: Explicit Primary Keys, Foreign Keys, Datatypes, Indexing
 
 PRAGMA foreign_keys = ON;
 
--- 1. Master Company Reference
+-- 1. Core Companies Table
 DROP TABLE IF EXISTS companies;
 CREATE TABLE companies (
-    id VARCHAR PRIMARY KEY,
-    company_logo TEXT,
+    id VARCHAR PRIMARY KEY, -- Primary Key: NSE Ticker Symbol (e.g., RELIANCE, TCS)
     company_name VARCHAR NOT NULL,
-    chart_link TEXT,
-    about_company TEXT,
-    website TEXT,
-    nse_profile TEXT,
-    bse_profile TEXT,
-    face_value NUMERIC,
-    book_value NUMERIC,
-    roce_percentage NUMERIC,
-    roe_percentage NUMERIC
+    bse_code VARCHAR,
+    isin VARCHAR UNIQUE,
+    company_logo VARCHAR,
+    chart_link VARCHAR
 );
 
--- 2. Annual Profit & Loss Statements
+-- 2. Annual Profit & Loss Data
 DROP TABLE IF EXISTS profitandloss;
 CREATE TABLE profitandloss (
-    id INTEGER,
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
     company_id VARCHAR NOT NULL,
-    year VARCHAR NOT NULL,
+    year VARCHAR NOT NULL, -- e.g., '2023-03' or '2024-03'
     sales NUMERIC,
     expenses NUMERIC,
     operating_profit NUMERIC,
-    opm_percentage NUMERIC,
+    opm_percent NUMERIC,
     other_income NUMERIC,
     interest NUMERIC,
     depreciation NUMERIC,
     profit_before_tax NUMERIC,
-    tax_percentage NUMERIC,
+    tax_percent NUMERIC,
     net_profit NUMERIC,
-    eps NUMERIC,
-    dividend_payout NUMERIC,
-    PRIMARY KEY (company_id, year),
+    eps_in_rs NUMERIC,
+    dividend_payout_percent NUMERIC,
+    UNIQUE (company_id, year),
     FOREIGN KEY (company_id) REFERENCES companies(id) ON DELETE CASCADE
 );
 
--- 3. Annual Balance Sheet
+-- 3. Annual Balance Sheet Data
 DROP TABLE IF EXISTS balancesheet;
 CREATE TABLE balancesheet (
-    id INTEGER,
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
     company_id VARCHAR NOT NULL,
     year VARCHAR NOT NULL,
     equity_capital NUMERIC,
@@ -59,71 +51,79 @@ CREATE TABLE balancesheet (
     fixed_assets NUMERIC,
     cwip NUMERIC,
     investments NUMERIC,
-    other_asset NUMERIC,
+    other_asset_items NUMERIC,
     total_assets NUMERIC,
-    PRIMARY KEY (company_id, year),
+    UNIQUE (company_id, year),
     FOREIGN KEY (company_id) REFERENCES companies(id) ON DELETE CASCADE
 );
 
--- 4. Annual Cash Flow Statements
+-- 4. Annual Cash Flow Data
 DROP TABLE IF EXISTS cashflow;
 CREATE TABLE cashflow (
-    id INTEGER,
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
     company_id VARCHAR NOT NULL,
     year VARCHAR NOT NULL,
-    operating_activity NUMERIC,
-    investing_activity NUMERIC,
-    financing_activity NUMERIC,
+    cash_from_operating_activity NUMERIC,
+    cash_from_investing_activity NUMERIC,
+    cash_from_financing_activity NUMERIC,
     net_cash_flow NUMERIC,
-    PRIMARY KEY (company_id, year),
+    UNIQUE (company_id, year),
     FOREIGN KEY (company_id) REFERENCES companies(id) ON DELETE CASCADE
 );
 
--- 5. Pre-Computed Growth Metrics (Partial Coverage)
+-- 5. Qualitative Financial Analysis Table
 DROP TABLE IF EXISTS analysis;
 CREATE TABLE analysis (
     id INTEGER PRIMARY KEY,
     company_id VARCHAR NOT NULL,
-    compounded_sales_growth TEXT,
-    compounded_profit_growth TEXT,
-    stock_price_cagr TEXT,
-    roe TEXT,
+    company_name VARCHAR,
+    sales_growth_3yr_pct NUMERIC,
+    sales_growth_5yr_pct NUMERIC,
+    profit_growth_3yr_pct NUMERIC,
+    profit_growth_5yr_pct NUMERIC,
+    roe_3yr_avg_pct NUMERIC,
+    roe_5yr_avg_pct NUMERIC,
+    roce_3yr_avg_pct NUMERIC,
+    roce_5yr_avg_pct NUMERIC,
     FOREIGN KEY (company_id) REFERENCES companies(id) ON DELETE CASCADE
 );
 
--- 6. Annual Report Repository
+-- 6. Document Filings & Reports Metadata
 DROP TABLE IF EXISTS documents;
 CREATE TABLE documents (
-    id INTEGER PRIMARY KEY,
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
     company_id VARCHAR NOT NULL,
-    year INTEGER NOT NULL,
-    annual_report TEXT,
+    title TEXT NOT NULL,
+    document_type TEXT,
+    date TEXT,
+    url TEXT,
     FOREIGN KEY (company_id) REFERENCES companies(id) ON DELETE CASCADE
 );
 
--- 7. Qualitative Investment Insights
+-- 7. Corporate Pros and Cons Statements
 DROP TABLE IF EXISTS prosandcons;
 CREATE TABLE prosandcons (
     id INTEGER PRIMARY KEY,
     company_id VARCHAR NOT NULL,
-    pros TEXT,
-    cons TEXT,
+    company_name VARCHAR,
+    pros_text TEXT,
+    cons_text TEXT,
     FOREIGN KEY (company_id) REFERENCES companies(id) ON DELETE CASCADE
 );
 
--- 8. Company Sector Mapping
+-- 8. Sector Mapping & Classifications
 DROP TABLE IF EXISTS sectors;
 CREATE TABLE sectors (
-    id INTEGER,
     company_id VARCHAR PRIMARY KEY,
-    broad_sector TEXT NOT NULL,
-    sub_sector TEXT NOT NULL,
+    company_name VARCHAR NOT NULL,
+    broad_sector VARCHAR NOT NULL,
+    sub_sector VARCHAR NOT NULL,
     index_weight_pct NUMERIC,
-    market_cap_category TEXT,
+    market_cap_category VARCHAR,
     FOREIGN KEY (company_id) REFERENCES companies(id) ON DELETE CASCADE
 );
 
--- 9. Monthly Stock Price History (Simulated)
+-- 9. Monthly Stock Price History
 DROP TABLE IF EXISTS stock_prices;
 CREATE TABLE stock_prices (
     id INTEGER PRIMARY KEY,
@@ -159,28 +159,16 @@ CREATE TABLE financial_ratios (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     company_id VARCHAR NOT NULL,
     year VARCHAR NOT NULL,
-<<<<<<< HEAD
-=======
-    -- Profitability KPIs
->>>>>>> f81a2dbcaaaeea2037fd8e762649a9c1a489d5d3
     net_profit_margin_pct NUMERIC,
     operating_profit_margin_pct NUMERIC,
     return_on_equity_pct NUMERIC,
     return_on_capital_employed_pct NUMERIC,
     return_on_assets_pct NUMERIC,
-<<<<<<< HEAD
-=======
-    -- Leverage & Efficiency KPIs
->>>>>>> f81a2dbcaaaeea2037fd8e762649a9c1a489d5d3
     debt_to_equity NUMERIC,
     interest_coverage NUMERIC,
     net_debt_cr NUMERIC,
     asset_turnover NUMERIC,
     total_debt_cr NUMERIC,
-<<<<<<< HEAD
-=======
-    -- Cash Quality & Flow KPIs
->>>>>>> f81a2dbcaaaeea2037fd8e762649a9c1a489d5d3
     cash_from_operations_cr NUMERIC,
     free_cash_flow_cr NUMERIC,
     capex_cr NUMERIC,
@@ -188,17 +176,9 @@ CREATE TABLE financial_ratios (
     capex_intensity_pct NUMERIC,
     fcf_conversion_rate_pct NUMERIC,
     capital_allocation_pattern TEXT,
-<<<<<<< HEAD
     earnings_per_share NUMERIC,
     book_value_per_share NUMERIC,
     dividend_payout_ratio_pct NUMERIC,
-=======
-    -- Equity & Share Valuation Inputs
-    earnings_per_share NUMERIC,
-    book_value_per_share NUMERIC,
-    dividend_payout_ratio_pct NUMERIC,
-    -- Growth CAGRs
->>>>>>> f81a2dbcaaaeea2037fd8e762649a9c1a489d5d3
     revenue_cagr_3yr NUMERIC,
     revenue_cagr_5yr NUMERIC,
     revenue_cagr_10yr NUMERIC,
@@ -206,17 +186,12 @@ CREATE TABLE financial_ratios (
     pat_cagr_5yr NUMERIC,
     pat_cagr_10yr NUMERIC,
     eps_cagr_5yr NUMERIC,
-<<<<<<< HEAD
-=======
-    -- Growth Flags
->>>>>>> f81a2dbcaaaeea2037fd8e762649a9c1a489d5d3
     revenue_cagr_5yr_flag TEXT,
     pat_cagr_5yr_flag TEXT,
     UNIQUE (company_id, year),
     FOREIGN KEY (company_id) REFERENCES companies(id) ON DELETE CASCADE
 );
 
-<<<<<<< HEAD
 -- 12. Sprint 3: Peer Comparison Groups Table
 DROP TABLE IF EXISTS peer_groups;
 CREATE TABLE peer_groups (
@@ -242,9 +217,69 @@ CREATE TABLE peer_percentiles (
     FOREIGN KEY (company_id) REFERENCES companies(id) ON DELETE CASCADE
 );
 
-=======
->>>>>>> f81a2dbcaaaeea2037fd8e762649a9c1a489d5d3
--- Indexes for performance
+-- 14. Sprint 4: Financial Health Scoring Table (Altman Z-Score & Beneish M-Score)
+DROP TABLE IF EXISTS financial_health;
+CREATE TABLE financial_health (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    company_id VARCHAR NOT NULL,
+    year VARCHAR NOT NULL,
+    altman_z_score NUMERIC,
+    financial_health_rating VARCHAR NOT NULL,
+    beneish_m_score NUMERIC,
+    manipulation_risk_flag VARCHAR NOT NULL,
+    UNIQUE (company_id, year),
+    FOREIGN KEY (company_id) REFERENCES companies(id) ON DELETE CASCADE
+);
+
+-- 15. Sprint 4: 3-Stage DuPont Analysis Table
+DROP TABLE IF EXISTS dupont_analysis;
+CREATE TABLE dupont_analysis (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    company_id VARCHAR NOT NULL,
+    year VARCHAR NOT NULL,
+    net_profit_margin NUMERIC,
+    asset_turnover NUMERIC,
+    equity_multiplier NUMERIC,
+    dupont_roe NUMERIC,
+    UNIQUE (company_id, year),
+    FOREIGN KEY (company_id) REFERENCES companies(id) ON DELETE CASCADE
+);
+
+-- 16. Sprint 4: Valuation Multiples & Intrinsic Value Table
+DROP TABLE IF EXISTS valuation_metrics;
+CREATE TABLE valuation_metrics (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    company_id VARCHAR NOT NULL,
+    year VARCHAR NOT NULL,
+    earnings_yield NUMERIC,
+    fcf_yield NUMERIC,
+    peg_ratio NUMERIC,
+    ev_sales NUMERIC,
+    ev_ebitda NUMERIC,
+    intrinsic_value_score NUMERIC,
+    valuation_score NUMERIC NOT NULL,
+    UNIQUE (company_id, year),
+    FOREIGN KEY (company_id) REFERENCES companies(id) ON DELETE CASCADE
+);
+
+-- 17. Sprint 4: Overall Investment Scores & Ratings Table
+DROP TABLE IF EXISTS investment_scores;
+CREATE TABLE investment_scores (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    company_id VARCHAR NOT NULL,
+    year VARCHAR NOT NULL,
+    quality_score NUMERIC NOT NULL,
+    growth_score NUMERIC NOT NULL,
+    value_score NUMERIC NOT NULL,
+    health_score NUMERIC NOT NULL,
+    momentum_score NUMERIC NOT NULL,
+    investment_score NUMERIC NOT NULL,
+    investment_rating VARCHAR NOT NULL,
+    UNIQUE (company_id, year),
+    FOREIGN KEY (company_id) REFERENCES companies(id) ON DELETE CASCADE
+);
+
+-- Performance Indexes
 CREATE INDEX IF NOT EXISTS idx_pl_company ON profitandloss(company_id);
 CREATE INDEX IF NOT EXISTS idx_bs_company ON balancesheet(company_id);
 CREATE INDEX IF NOT EXISTS idx_cf_company ON cashflow(company_id);
@@ -252,8 +287,9 @@ CREATE INDEX IF NOT EXISTS idx_docs_company ON documents(company_id);
 CREATE INDEX IF NOT EXISTS idx_sp_company_date ON stock_prices(company_id, date);
 CREATE INDEX IF NOT EXISTS idx_mc_company_year ON market_cap(company_id, year);
 CREATE INDEX IF NOT EXISTS idx_fr_company_year ON financial_ratios(company_id, year);
-<<<<<<< HEAD
 CREATE INDEX IF NOT EXISTS idx_pg_company ON peer_groups(company_id);
 CREATE INDEX IF NOT EXISTS idx_pp_company_metric ON peer_percentiles(company_id, peer_group_name, metric);
-=======
->>>>>>> f81a2dbcaaaeea2037fd8e762649a9c1a489d5d3
+CREATE INDEX IF NOT EXISTS idx_fh_company_year ON financial_health(company_id, year);
+CREATE INDEX IF NOT EXISTS idx_da_company_year ON dupont_analysis(company_id, year);
+CREATE INDEX IF NOT EXISTS idx_vm_company_year ON valuation_metrics(company_id, year);
+CREATE INDEX IF NOT EXISTS idx_is_company_year ON investment_scores(company_id, year);
