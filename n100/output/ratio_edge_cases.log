@@ -1,0 +1,413 @@
+[ABB 2012-12] Debt-free company: borrowings=0, D/E set to 0.0
+[ABB 2012-12] Interest is 0/None: ICR set to None (Debt Free)
+[ABB 2014-03] Debt-free company: borrowings=0, D/E set to 0.0
+[ABB 2014-03] Interest is 0/None: ICR set to None (Debt Free)
+[ABB 2015-03] Debt-free company: borrowings=0, D/E set to 0.0
+[ABB 2015-03] Interest is 0/None: ICR set to None (Debt Free)
+[ABB 2016-03] Debt-free company: borrowings=0, D/E set to 0.0
+[ABB 2017-03] Debt-free company: borrowings=0, D/E set to 0.0
+[ABB 2018-03] Debt-free company: borrowings=0, D/E set to 0.0
+[ABB 2019-03] Debt-free company: borrowings=0, D/E set to 0.0
+[ABB 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[ABB PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[ABB PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[ADANIENSOL 2014-03] Debt-free company: borrowings=0, D/E set to 0.0
+[ADANIENSOL 2014-03] Interest is 0/None: ICR set to None (Debt Free)
+[ADANIENSOL 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[ADANIENSOL PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[ADANIENSOL PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[ADANIENT 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[ADANIENT PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[ADANIENT PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[ADANIGREEN 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[ADANIGREEN PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[ADANIGREEN PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[ADANIPORTS 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[ADANIPORTS PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[ADANIPORTS PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[ADANIPOWER 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[ADANIPOWER PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[ADANIPOWER PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[AMBUJACEM 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[AMBUJACEM PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[AMBUJACEM PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[APOLLOHOSP 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[APOLLOHOSP PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[APOLLOHOSP PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[ASIANPAINT 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[ASIANPAINT PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[ASIANPAINT PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[ATGL 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[ATGL PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[ATGL PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[AXISBANK PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[AXISBANK PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[BAJAJ-AUTO 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[BAJAJ-AUTO PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[BAJAJ-AUTO PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[BAJAJFINSV 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[BAJAJFINSV PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[BAJAJFINSV PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[BAJAJHLDNG 2013-03] Debt-free company: borrowings=0, D/E set to 0.0
+[BAJAJHLDNG 2013-03] Interest is 0/None: ICR set to None (Debt Free)
+[BAJAJHLDNG 2014-03] Debt-free company: borrowings=0, D/E set to 0.0
+[BAJAJHLDNG 2014-03] Interest is 0/None: ICR set to None (Debt Free)
+[BAJAJHLDNG 2015-03] Debt-free company: borrowings=0, D/E set to 0.0
+[BAJAJHLDNG 2015-03] Interest is 0/None: ICR set to None (Debt Free)
+[BAJAJHLDNG 2016-03] Debt-free company: borrowings=0, D/E set to 0.0
+[BAJAJHLDNG 2016-03] Interest is 0/None: ICR set to None (Debt Free)
+[BAJAJHLDNG 2017-03] Debt-free company: borrowings=0, D/E set to 0.0
+[BAJAJHLDNG 2017-03] Interest is 0/None: ICR set to None (Debt Free)
+[BAJAJHLDNG 2018-03] Debt-free company: borrowings=0, D/E set to 0.0
+[BAJAJHLDNG 2018-03] Interest is 0/None: ICR set to None (Debt Free)
+[BAJAJHLDNG 2019-03] Debt-free company: borrowings=0, D/E set to 0.0
+[BAJAJHLDNG 2019-03] Interest is 0/None: ICR set to None (Debt Free)
+[BAJAJHLDNG 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[BAJAJHLDNG PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[BAJAJHLDNG PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[BAJFINANCE 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[BAJFINANCE PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[BAJFINANCE PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[BANKBARODA PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[BANKBARODA PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[BEL 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[BEL PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[BEL PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[BHARTIARTL 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[BHARTIARTL PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[BHARTIARTL PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[BHEL 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[BHEL PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[BHEL PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[BOSCHLTD 2013-12] Interest is 0/None: ICR set to None (Debt Free)
+[BOSCHLTD 2017-03] Debt-free company: borrowings=0, D/E set to 0.0
+[BOSCHLTD 2018-03] Debt-free company: borrowings=0, D/E set to 0.0
+[BOSCHLTD 2019-03] Debt-free company: borrowings=0, D/E set to 0.0
+[BOSCHLTD 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[BOSCHLTD PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[BOSCHLTD PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[BPCL 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[BPCL PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[BPCL PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[BRITANNIA 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[BRITANNIA PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[BRITANNIA PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[CANBK PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[CANBK PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[CHOLAFIN 2015-03] Interest is 0/None: ICR set to None (Debt Free)
+[CHOLAFIN 2018-03] Interest is 0/None: ICR set to None (Debt Free)
+[CHOLAFIN 2020-03] Interest is 0/None: ICR set to None (Debt Free)
+[CHOLAFIN 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[CHOLAFIN PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[CHOLAFIN PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[CIPLA 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[CIPLA PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[CIPLA PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[COALINDIA 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[COALINDIA PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[COALINDIA PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[DABUR 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[DABUR PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[DABUR PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[DIVISLAB 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[DIVISLAB PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[DIVISLAB PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[DLF 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[DLF PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[DLF PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[DMART 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[DMART PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[DMART PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[DRREDDY 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[DRREDDY PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[DRREDDY PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[EICHERMOT 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[EICHERMOT PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[EICHERMOT PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[GAIL 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[GAIL PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[GAIL PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[GODREJCP 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[GODREJCP PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[GODREJCP PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[GRASIM 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[GRASIM PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[GRASIM PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[HAL 2013-03] Debt-free company: borrowings=0, D/E set to 0.0
+[HAL 2013-03] Negative/Zero total equity: ROE set to None
+[HAL 2014-03] Debt-free company: borrowings=0, D/E set to 0.0
+[HAL 2014-03] Negative/Zero total equity: ROE set to None
+[HAL 2015-03] Debt-free company: borrowings=0, D/E set to 0.0
+[HAL 2015-03] Negative/Zero total equity: ROE set to None
+[HAL 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[HAL PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[HAL PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[HAVELLS 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[HAVELLS PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[HAVELLS PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[HCLTECH 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[HCLTECH PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[HCLTECH PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[HDFCBANK PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[HDFCBANK PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[HDFCLIFE 2013-03] Debt-free company: borrowings=0, D/E set to 0.0
+[HDFCLIFE 2014-03] Debt-free company: borrowings=0, D/E set to 0.0
+[HDFCLIFE 2015-03] Debt-free company: borrowings=0, D/E set to 0.0
+[HDFCLIFE 2016-03] Debt-free company: borrowings=0, D/E set to 0.0
+[HDFCLIFE 2017-03] Debt-free company: borrowings=0, D/E set to 0.0
+[HDFCLIFE 2018-03] Debt-free company: borrowings=0, D/E set to 0.0
+[HDFCLIFE 2019-03] Debt-free company: borrowings=0, D/E set to 0.0
+[HDFCLIFE 2020-03] Debt-free company: borrowings=0, D/E set to 0.0
+[HDFCLIFE 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[HDFCLIFE PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[HDFCLIFE PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[HEROMOTOCO 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[HEROMOTOCO PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[HEROMOTOCO PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[HINDALCO 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[HINDALCO PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[HINDALCO PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[HINDUNILVR 2018-03] Debt-free company: borrowings=0, D/E set to 0.0
+[HINDUNILVR 2020-03] Debt-free company: borrowings=0, D/E set to 0.0
+[HINDUNILVR 2021-03] Debt-free company: borrowings=0, D/E set to 0.0
+[HINDUNILVR 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[HINDUNILVR PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[HINDUNILVR PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[ICICIBANK PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[ICICIBANK PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[ICICIGI 2013-03] Debt-free company: borrowings=0, D/E set to 0.0
+[ICICIGI 2014-03] Debt-free company: borrowings=0, D/E set to 0.0
+[ICICIGI 2015-03] Debt-free company: borrowings=0, D/E set to 0.0
+[ICICIGI 2016-03] Debt-free company: borrowings=0, D/E set to 0.0
+[ICICIGI 2016-03] Interest is 0/None: ICR set to None (Debt Free)
+[ICICIGI 2024-09] Debt-free company: borrowings=0, D/E set to 0.0
+[ICICIGI 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[ICICIGI PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[ICICIGI PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[ICICIPRULI 2013-03] Debt-free company: borrowings=0, D/E set to 0.0
+[ICICIPRULI 2014-03] Debt-free company: borrowings=0, D/E set to 0.0
+[ICICIPRULI 2015-03] Debt-free company: borrowings=0, D/E set to 0.0
+[ICICIPRULI 2016-03] Interest is 0/None: ICR set to None (Debt Free)
+[ICICIPRULI 2017-03] Debt-free company: borrowings=0, D/E set to 0.0
+[ICICIPRULI 2018-03] Debt-free company: borrowings=0, D/E set to 0.0
+[ICICIPRULI 2019-03] Debt-free company: borrowings=0, D/E set to 0.0
+[ICICIPRULI 2020-03] Debt-free company: borrowings=0, D/E set to 0.0
+[ICICIPRULI 2024-09] Debt-free company: borrowings=0, D/E set to 0.0
+[ICICIPRULI 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[ICICIPRULI PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[ICICIPRULI PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[INDIGO 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[INDIGO PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[INDIGO PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[INDUSINDBK PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[INDUSINDBK PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[INFY 2013-03] Debt-free company: borrowings=0, D/E set to 0.0
+[INFY 2014-03] Debt-free company: borrowings=0, D/E set to 0.0
+[INFY 2015-03] Debt-free company: borrowings=0, D/E set to 0.0
+[INFY 2016-03] Debt-free company: borrowings=0, D/E set to 0.0
+[INFY 2016-03] Interest is 0/None: ICR set to None (Debt Free)
+[INFY 2017-03] Debt-free company: borrowings=0, D/E set to 0.0
+[INFY 2017-03] Interest is 0/None: ICR set to None (Debt Free)
+[INFY 2018-03] Debt-free company: borrowings=0, D/E set to 0.0
+[INFY 2018-03] Interest is 0/None: ICR set to None (Debt Free)
+[INFY 2019-03] Debt-free company: borrowings=0, D/E set to 0.0
+[INFY 2019-03] Interest is 0/None: ICR set to None (Debt Free)
+[INFY 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[INFY PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[INFY PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[IOC 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[IOC PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[IOC PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[IRCTC 2015-03] Debt-free company: borrowings=0, D/E set to 0.0
+[IRCTC 2015-03] Interest is 0/None: ICR set to None (Debt Free)
+[IRCTC 2016-03] Debt-free company: borrowings=0, D/E set to 0.0
+[IRCTC 2016-03] Interest is 0/None: ICR set to None (Debt Free)
+[IRCTC 2017-03] Debt-free company: borrowings=0, D/E set to 0.0
+[IRCTC 2018-03] Debt-free company: borrowings=0, D/E set to 0.0
+[IRCTC 2019-03] Debt-free company: borrowings=0, D/E set to 0.0
+[IRCTC 2020-03] Debt-free company: borrowings=0, D/E set to 0.0
+[IRCTC 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[IRCTC PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[IRCTC PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[IRFC 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[IRFC PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[IRFC PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[ITC 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[ITC PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[ITC PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[JINDALSTEL 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[JINDALSTEL PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[JINDALSTEL PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[JIOFIN 2023-03] Interest is 0/None: ICR set to None (Debt Free)
+[JIOFIN 2024-03] Debt-free company: borrowings=0, D/E set to 0.0
+[JIOFIN 2024-09] Debt-free company: borrowings=0, D/E set to 0.0
+[JIOFIN 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[JIOFIN PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[JIOFIN PARSE_ERROR] Interest is 0/None: ICR set to None (Debt Free)
+[JIOFIN PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[JSWENERGY 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[JSWENERGY PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[JSWENERGY PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[JSWSTEEL 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[JSWSTEEL PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[JSWSTEEL PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[KOTAKBANK PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[KOTAKBANK PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[LICI 2019-03] Interest is 0/None: ICR set to None (Debt Free)
+[LICI 2020-03] Interest is 0/None: ICR set to None (Debt Free)
+[LICI 2021-03] Interest is 0/None: ICR set to None (Debt Free)
+[LICI 2022-03] Interest is 0/None: ICR set to None (Debt Free)
+[LICI 2023-03] Debt-free company: borrowings=0, D/E set to 0.0
+[LICI 2024-03] Debt-free company: borrowings=0, D/E set to 0.0
+[LICI 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[LICI PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[LICI PARSE_ERROR] Interest is 0/None: ICR set to None (Debt Free)
+[LICI PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[LODHA 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[LODHA PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[LODHA PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[LT 2017-03] Debt-free company: borrowings=0, D/E set to 0.0
+[LT 2018-03] Debt-free company: borrowings=0, D/E set to 0.0
+[LT 2019-03] Debt-free company: borrowings=0, D/E set to 0.0
+[LT 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[LT PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[LT PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[LTIM 2017-03] Debt-free company: borrowings=0, D/E set to 0.0
+[LTIM 2018-03] Debt-free company: borrowings=0, D/E set to 0.0
+[LTIM 2019-03] Debt-free company: borrowings=0, D/E set to 0.0
+[LTIM 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[LTIM PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[LTIM PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[M&M 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[M&M PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[M&M PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[MARUTI 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[MARUTI PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[MARUTI PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[MOTHERSON 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[MOTHERSON PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[MOTHERSON PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[NAUKRI 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[NAUKRI PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[NAUKRI PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[NESTLEIND 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[NESTLEIND PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[NESTLEIND PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[NHPC 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[NHPC PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[NHPC PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[NTPC 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[NTPC PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[NTPC PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[ONGC 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[ONGC PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[ONGC PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[PFC 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[PFC PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[PFC PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[PIDILITIND 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[PIDILITIND PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[PIDILITIND PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[PNB PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[PNB PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[POWERGRID 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[POWERGRID PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[POWERGRID PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[RECLTD 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[RECLTD PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[RECLTD PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[RELIANCE 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[RELIANCE PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[RELIANCE PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[SBILIFE 2013-03] Debt-free company: borrowings=0, D/E set to 0.0
+[SBILIFE 2014-03] Debt-free company: borrowings=0, D/E set to 0.0
+[SBILIFE 2015-03] Debt-free company: borrowings=0, D/E set to 0.0
+[SBILIFE 2016-03] Debt-free company: borrowings=0, D/E set to 0.0
+[SBILIFE 2017-03] Debt-free company: borrowings=0, D/E set to 0.0
+[SBILIFE 2018-03] Debt-free company: borrowings=0, D/E set to 0.0
+[SBILIFE 2019-03] Debt-free company: borrowings=0, D/E set to 0.0
+[SBILIFE 2020-03] Debt-free company: borrowings=0, D/E set to 0.0
+[SBILIFE 2020-03] Interest is 0/None: ICR set to None (Debt Free)
+[SBILIFE 2021-03] Debt-free company: borrowings=0, D/E set to 0.0
+[SBILIFE 2021-03] Interest is 0/None: ICR set to None (Debt Free)
+[SBILIFE 2022-03] Debt-free company: borrowings=0, D/E set to 0.0
+[SBILIFE 2022-03] Interest is 0/None: ICR set to None (Debt Free)
+[SBILIFE 2023-03] Debt-free company: borrowings=0, D/E set to 0.0
+[SBILIFE 2024-03] Debt-free company: borrowings=0, D/E set to 0.0
+[SBILIFE 2024-09] Debt-free company: borrowings=0, D/E set to 0.0
+[SBILIFE 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[SBILIFE PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[SBILIFE PARSE_ERROR] Interest is 0/None: ICR set to None (Debt Free)
+[SBILIFE PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[SBIN 2013-03] Debt-free company: borrowings=0, D/E set to 0.0
+[SBIN 2013-03] Negative/Zero total equity: ROE set to None
+[SBIN 2014-03] Debt-free company: borrowings=0, D/E set to 0.0
+[SBIN 2014-03] Negative/Zero total equity: ROE set to None
+[SBIN 2015-03] Debt-free company: borrowings=0, D/E set to 0.0
+[SBIN 2015-03] Negative/Zero total equity: ROE set to None
+[SBIN 2016-03] Debt-free company: borrowings=0, D/E set to 0.0
+[SBIN 2016-03] Negative/Zero total equity: ROE set to None
+[SBIN 2017-03] Debt-free company: borrowings=0, D/E set to 0.0
+[SBIN 2017-03] Negative/Zero total equity: ROE set to None
+[SBIN 2018-03] Debt-free company: borrowings=0, D/E set to 0.0
+[SBIN 2018-03] Negative/Zero total equity: ROE set to None
+[SBIN 2019-03] Debt-free company: borrowings=0, D/E set to 0.0
+[SBIN 2019-03] Negative/Zero total equity: ROE set to None
+[SBIN 2020-03] Debt-free company: borrowings=0, D/E set to 0.0
+[SBIN 2020-03] Negative/Zero total equity: ROE set to None
+[SBIN 2021-03] Debt-free company: borrowings=0, D/E set to 0.0
+[SBIN 2021-03] Negative/Zero total equity: ROE set to None
+[SBIN 2022-03] Debt-free company: borrowings=0, D/E set to 0.0
+[SBIN 2022-03] Negative/Zero total equity: ROE set to None
+[SBIN 2023-03] Debt-free company: borrowings=0, D/E set to 0.0
+[SBIN 2023-03] Negative/Zero total equity: ROE set to None
+[SBIN 2024-03] Debt-free company: borrowings=0, D/E set to 0.0
+[SBIN 2024-03] Negative/Zero total equity: ROE set to None
+[SBIN PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[SBIN PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[SHREECEM 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[SHREECEM PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[SHREECEM PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[SHRIRAMFIN 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[SHRIRAMFIN PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[SHRIRAMFIN PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[SIEMENS 2011-09] Debt-free company: borrowings=0, D/E set to 0.0
+[SIEMENS 2014-09] Debt-free company: borrowings=0, D/E set to 0.0
+[SIEMENS 2017-09] Debt-free company: borrowings=0, D/E set to 0.0
+[SIEMENS 2018-09] Debt-free company: borrowings=0, D/E set to 0.0
+[SIEMENS 2019-09] Debt-free company: borrowings=0, D/E set to 0.0
+[SIEMENS 2020-09] Debt-free company: borrowings=0, D/E set to 0.0
+[SUNPHARMA 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[SUNPHARMA PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[SUNPHARMA PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[TATACONSUM 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[TATACONSUM PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[TATACONSUM PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[TATAMOTORS 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[TATAMOTORS PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[TATAMOTORS PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[TATAPOWER 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[TATAPOWER PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[TATAPOWER PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[TATASTEEL 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[TATASTEEL PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[TATASTEEL PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[TCS 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[TCS PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[TCS PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[TECHM 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[TECHM PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[TECHM PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[TITAN 2013-03] Debt-free company: borrowings=0, D/E set to 0.0
+[TITAN 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[TITAN PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[TITAN PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[TORNTPHARM 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[TORNTPHARM PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[TORNTPHARM PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[TRENT 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[TRENT PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[TRENT PARSE_ERROR] Negative/Zero total equity: ROE set to None
+[TVSMOTOR 2024-09] Interest is 0/None: ICR set to None (Debt Free)
+[TVSMOTOR PARSE_ERROR] Debt-free company: borrowings=0, D/E set to 0.0
+[TVSMOTOR PARSE_ERROR] Negative/Zero total equity: ROE set to None
