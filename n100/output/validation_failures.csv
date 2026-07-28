@@ -1,0 +1,1437 @@
+rule_id,company_id,year,field,issue,severity
+DQ-03,ULTRACEMCO,2013-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,ULTRACEMCO,2014-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,ULTRACEMCO,2015-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,ULTRACEMCO,2016-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,ULTRACEMCO,2017-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,ULTRACEMCO,2018-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,ULTRACEMCO,2019-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,ULTRACEMCO,2020-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,ULTRACEMCO,2021-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,ULTRACEMCO,2022-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,ULTRACEMCO,2023-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,ULTRACEMCO,2024-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,ULTRACEMCO,PARSE_ERROR,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,UNIONBANK,2013-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,UNIONBANK,2014-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,UNIONBANK,2015-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,UNIONBANK,2016-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,UNIONBANK,2017-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,UNIONBANK,2018-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,UNIONBANK,2019-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,UNIONBANK,2020-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,UNIONBANK,2021-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,UNIONBANK,2022-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,UNIONBANK,2023-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,UNIONBANK,2024-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,UNIONBANK,PARSE_ERROR,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,UNITDSPR,2013-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,UNITDSPR,2014-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,UNITDSPR,2015-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,UNITDSPR,2016-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,UNITDSPR,2017-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,UNITDSPR,2018-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,UNITDSPR,2019-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,UNITDSPR,2020-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,UNITDSPR,2021-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,UNITDSPR,2022-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,UNITDSPR,2023-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,UNITDSPR,2024-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,UNITDSPR,PARSE_ERROR,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,VBL,2012-12,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,VBL,2013-12,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,VBL,2014-12,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,VBL,2015-12,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,VBL,2016-12,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,VBL,2017-12,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,VBL,2018-12,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,VBL,2019-12,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,VBL,2020-12,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,VBL,2021-12,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,VBL,2022-12,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,VBL,2023-12,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,VBL,PARSE_ERROR,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,VEDL,2013-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,VEDL,2014-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,VEDL,2015-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,VEDL,2016-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,VEDL,2017-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,VEDL,2018-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,VEDL,2019-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,VEDL,2020-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,VEDL,2021-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,VEDL,2022-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,VEDL,2023-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,VEDL,2024-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,VEDL,PARSE_ERROR,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,WIPRO,2013-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,WIPRO,2014-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,WIPRO,2015-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,WIPRO,2016-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,WIPRO,2017-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,WIPRO,2018-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,WIPRO,2019-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,WIPRO,2020-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,WIPRO,2021-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,WIPRO,2022-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,WIPRO,2023-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,WIPRO,2024-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,WIPRO,PARSE_ERROR,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,ZOMATO,2018-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,ZOMATO,2019-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,ZOMATO,2020-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,ZOMATO,2021-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,ZOMATO,2022-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,ZOMATO,2023-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,ZOMATO,2024-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,ZOMATO,PARSE_ERROR,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,ZYDUSLIFE,2013-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,ZYDUSLIFE,2014-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,ZYDUSLIFE,2015-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,ZYDUSLIFE,2016-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,ZYDUSLIFE,2017-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,ZYDUSLIFE,2018-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,ZYDUSLIFE,2019-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,ZYDUSLIFE,2020-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,ZYDUSLIFE,2021-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,ZYDUSLIFE,2022-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,ZYDUSLIFE,2023-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,ZYDUSLIFE,2024-03,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-03,ZYDUSLIFE,PARSE_ERROR,company_id,Orphan row in profitandloss - company_id not in companies,CRITICAL
+DQ-07,ABB,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,ADANIENSOL,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,ADANIENT,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,ADANIGREEN,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,ADANIPORTS,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,ADANIPORTS,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,ADANIPOWER,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,AMBUJACEM,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,APOLLOHOSP,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,ASIANPAINT,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,ATGL,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,BAJAJ-AUTO,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,AXISBANK,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,BAJAJFINSV,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,BAJAJHLDNG,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,BAJFINANCE,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,BANKBARODA,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,BHARTIARTL,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,BEL,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,BHEL,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,BOSCHLTD,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,BPCL,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,BRITANNIA,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,CANBK,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,CHOLAFIN,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,CIPLA,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,COALINDIA,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,DABUR,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,DIVISLAB,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,DLF,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,DMART,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,DRREDDY,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,EICHERMOT,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,GAIL,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,GODREJCP,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,GRASIM,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,HAL,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,HAVELLS,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,HCLTECH,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,HDFCBANK,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,HDFCLIFE,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,HEROMOTOCO,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,HINDALCO,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,HINDUNILVR,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,ICICIBANK,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,ICICIGI,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,ICICIPRULI,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,INDUSINDBK,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,INFY,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,IOC,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,IRCTC,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,IRFC,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,ITC,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,JINDALSTEL,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,JIOFIN,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,JSWENERGY,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,JSWSTEEL,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,KOTAKBANK,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,LICI,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,LODHA,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,LT,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,LTIM,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,M&M,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,MARUTI,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,MOTHERSON,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,NAUKRI,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,NESTLEIND,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,NHPC,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,NTPC,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,ONGC,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,PFC,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,PIDILITIND,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,PNB,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,POWERGRID,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,RECLTD,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,RELIANCE,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,SBILIFE,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,SBIN,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,SHREECEM,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,SHRIRAMFIN,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,SUNPHARMA,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,TATACONSUM,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,TATAMOTORS,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,TATAPOWER,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,TATASTEEL,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,TCS,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,TECHM,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,TITAN,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,TORNTPHARM,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,TRENT,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,TVSMOTOR,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,ULTRACEMCO,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,UNIONBANK,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,UNITDSPR,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,VBL,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,VEDL,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,WIPRO,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,ZOMATO,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,ZYDUSLIFE,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,INDIGO,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-02,ADANIPORTS,2013-03,"company_id,year",Duplicate key in profitandloss,CRITICAL
+DQ-02,ADANIPORTS,2014-03,"company_id,year",Duplicate key in profitandloss,CRITICAL
+DQ-02,ADANIPORTS,2015-03,"company_id,year",Duplicate key in profitandloss,CRITICAL
+DQ-02,ADANIPORTS,2016-03,"company_id,year",Duplicate key in profitandloss,CRITICAL
+DQ-02,ADANIPORTS,2017-03,"company_id,year",Duplicate key in profitandloss,CRITICAL
+DQ-02,ADANIPORTS,2018-03,"company_id,year",Duplicate key in profitandloss,CRITICAL
+DQ-02,ADANIPORTS,2019-03,"company_id,year",Duplicate key in profitandloss,CRITICAL
+DQ-02,ADANIPORTS,2020-03,"company_id,year",Duplicate key in profitandloss,CRITICAL
+DQ-02,ADANIPORTS,2021-03,"company_id,year",Duplicate key in profitandloss,CRITICAL
+DQ-02,ADANIPORTS,2022-03,"company_id,year",Duplicate key in profitandloss,CRITICAL
+DQ-02,ADANIPORTS,2023-03,"company_id,year",Duplicate key in profitandloss,CRITICAL
+DQ-02,ADANIPORTS,2024-03,"company_id,year",Duplicate key in profitandloss,CRITICAL
+DQ-02,ADANIPORTS,PARSE_ERROR,"company_id,year",Duplicate key in profitandloss,CRITICAL
+DQ-02,ADANIPORTS,2013-03,"company_id,year",Duplicate key in profitandloss,CRITICAL
+DQ-02,ADANIPORTS,2014-03,"company_id,year",Duplicate key in profitandloss,CRITICAL
+DQ-02,ADANIPORTS,2015-03,"company_id,year",Duplicate key in profitandloss,CRITICAL
+DQ-02,ADANIPORTS,2016-03,"company_id,year",Duplicate key in profitandloss,CRITICAL
+DQ-02,ADANIPORTS,2017-03,"company_id,year",Duplicate key in profitandloss,CRITICAL
+DQ-02,ADANIPORTS,2018-03,"company_id,year",Duplicate key in profitandloss,CRITICAL
+DQ-02,ADANIPORTS,2019-03,"company_id,year",Duplicate key in profitandloss,CRITICAL
+DQ-02,ADANIPORTS,2020-03,"company_id,year",Duplicate key in profitandloss,CRITICAL
+DQ-02,ADANIPORTS,2021-03,"company_id,year",Duplicate key in profitandloss,CRITICAL
+DQ-02,ADANIPORTS,2022-03,"company_id,year",Duplicate key in profitandloss,CRITICAL
+DQ-02,ADANIPORTS,2023-03,"company_id,year",Duplicate key in profitandloss,CRITICAL
+DQ-02,ADANIPORTS,2024-03,"company_id,year",Duplicate key in profitandloss,CRITICAL
+DQ-02,ADANIPORTS,PARSE_ERROR,"company_id,year",Duplicate key in profitandloss,CRITICAL
+DQ-03,ZYDUSLIFE,2013-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,ZYDUSLIFE,2014-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,ZYDUSLIFE,2015-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,ZYDUSLIFE,2016-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,ZYDUSLIFE,2017-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,ZYDUSLIFE,2018-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,ZYDUSLIFE,2019-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,ZYDUSLIFE,2020-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,ZYDUSLIFE,2021-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,ZYDUSLIFE,2022-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,ZYDUSLIFE,2023-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,ZYDUSLIFE,2024-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,ZYDUSLIFE,PARSE_ERROR,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,ZOMATO,2018-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,ZOMATO,2019-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,ZOMATO,2020-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,ZOMATO,2021-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,ZOMATO,2022-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,ZOMATO,2023-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,ZOMATO,2024-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,ZOMATO,PARSE_ERROR,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,WIPRO,2013-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,WIPRO,2014-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,WIPRO,2015-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,WIPRO,2016-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,WIPRO,2017-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,WIPRO,2018-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,WIPRO,2019-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,WIPRO,2020-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,WIPRO,2021-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,WIPRO,2022-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,WIPRO,2023-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,WIPRO,2024-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,WIPRO,PARSE_ERROR,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,VEDL,2013-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,VEDL,2014-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,VEDL,2015-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,VEDL,2016-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,VEDL,2017-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,VEDL,2018-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,VEDL,2019-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,VEDL,2020-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,VEDL,2021-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,VEDL,2022-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,VEDL,2023-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,VEDL,2024-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,VEDL,PARSE_ERROR,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,UNITDSPR,2013-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,UNITDSPR,2014-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,UNITDSPR,2015-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,UNITDSPR,2016-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,UNITDSPR,2017-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,UNITDSPR,2018-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,UNITDSPR,2019-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,UNITDSPR,2020-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,UNITDSPR,2021-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,UNITDSPR,2022-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,UNITDSPR,2023-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,UNITDSPR,2024-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,UNITDSPR,PARSE_ERROR,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,UNIONBANK,2013-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,UNIONBANK,2014-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,UNIONBANK,2015-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,UNIONBANK,2016-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,UNIONBANK,2017-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,UNIONBANK,2018-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,UNIONBANK,2019-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,UNIONBANK,2020-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,UNIONBANK,2021-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,UNIONBANK,2022-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,UNIONBANK,2023-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,UNIONBANK,2024-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,ULTRACEMCO,2013-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,ULTRACEMCO,2014-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,ULTRACEMCO,2015-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,ULTRACEMCO,2016-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,ULTRACEMCO,2017-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,ULTRACEMCO,2018-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,ULTRACEMCO,2019-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,ULTRACEMCO,2020-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,ULTRACEMCO,2021-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,ULTRACEMCO,2022-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,ULTRACEMCO,2023-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,ULTRACEMCO,2024-03,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-03,ULTRACEMCO,2024-09,company_id,Orphan row in balancesheet - company_id not in companies,CRITICAL
+DQ-07,ZYDUSLIFE,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,ZOMATO,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,WIPRO,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,VEDL,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-07,UNITDSPR,PARSE_ERROR,year,Invalid year format: PARSE_ERROR,CRITICAL
+DQ-02,ASIANPAINT,2013-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,ASIANPAINT,2014-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,ASIANPAINT,2015-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,ASIANPAINT,2016-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,ASIANPAINT,2017-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,ASIANPAINT,2018-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,ASIANPAINT,2019-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,ASIANPAINT,2020-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,ASIANPAINT,2021-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,ASIANPAINT,2022-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,ASIANPAINT,2023-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,ASIANPAINT,2024-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,ASIANPAINT,2024-09,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,ASIANPAINT,2013-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,ASIANPAINT,2014-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,ASIANPAINT,2015-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,ASIANPAINT,2016-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,ASIANPAINT,2017-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,ASIANPAINT,2018-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,ASIANPAINT,2019-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,ASIANPAINT,2020-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,ASIANPAINT,2021-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,ASIANPAINT,2022-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,ASIANPAINT,2023-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,ASIANPAINT,2024-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,ASIANPAINT,2024-09,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2013-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2014-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2015-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2016-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2017-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2018-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2019-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2020-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2021-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2022-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2023-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2024-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2013-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2014-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2015-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2016-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2017-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2018-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2019-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2020-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2021-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2022-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2023-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2024-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2013-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2014-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2015-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2016-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2017-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2018-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2019-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2020-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2021-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2022-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2023-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2024-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2013-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2014-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2015-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2016-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2017-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2018-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2019-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2020-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2021-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2022-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2023-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2024-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2013-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2014-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2015-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2016-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2017-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2018-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2019-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2020-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2021-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2022-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2023-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,PNB,2024-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,POWERGRID,2013-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,POWERGRID,2014-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,POWERGRID,2015-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,POWERGRID,2016-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,POWERGRID,2017-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,POWERGRID,2018-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,POWERGRID,2019-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,POWERGRID,2020-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,POWERGRID,2021-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,POWERGRID,2022-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,POWERGRID,2023-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,POWERGRID,2024-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,POWERGRID,2024-09,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,POWERGRID,2013-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,POWERGRID,2014-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,POWERGRID,2015-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,POWERGRID,2016-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,POWERGRID,2017-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,POWERGRID,2018-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,POWERGRID,2019-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,POWERGRID,2020-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,POWERGRID,2021-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,POWERGRID,2022-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,POWERGRID,2023-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,POWERGRID,2024-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,POWERGRID,2024-09,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,TECHM,2013-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,TECHM,2014-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,TECHM,2015-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,TECHM,2016-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,TECHM,2017-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,TECHM,2018-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,TECHM,2019-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,TECHM,2020-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,TECHM,2021-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,TECHM,2022-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,TECHM,2023-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,TECHM,2024-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,TECHM,2024-09,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,TECHM,2013-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,TECHM,2014-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,TECHM,2015-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,TECHM,2016-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,TECHM,2017-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,TECHM,2018-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,TECHM,2019-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,TECHM,2020-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,TECHM,2021-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,TECHM,2022-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,TECHM,2023-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,TECHM,2024-03,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-02,TECHM,2024-09,"company_id,year",Duplicate key in balancesheet,CRITICAL
+DQ-03,AGTL,2018-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,AGTL,2019-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,AGTL,2020-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,AGTL,2021-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,AGTL,2022-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,AGTL,2023-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,AGTL,2024-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,ULTRACEMCO,2013-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,ULTRACEMCO,2014-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,ULTRACEMCO,2015-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,ULTRACEMCO,2016-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,ULTRACEMCO,2017-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,ULTRACEMCO,2018-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,ULTRACEMCO,2019-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,ULTRACEMCO,2020-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,ULTRACEMCO,2021-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,ULTRACEMCO,2022-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,ULTRACEMCO,2023-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,ULTRACEMCO,2024-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,UNIONBANK,2013-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,UNIONBANK,2014-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,UNIONBANK,2015-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,UNIONBANK,2016-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,UNIONBANK,2017-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,UNIONBANK,2018-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,UNIONBANK,2019-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,UNIONBANK,2020-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,UNIONBANK,2021-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,UNIONBANK,2022-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,UNIONBANK,2023-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,UNIONBANK,2024-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,UNITDSPR,2013-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,UNITDSPR,2014-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,UNITDSPR,2015-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,UNITDSPR,2016-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,UNITDSPR,2017-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,UNITDSPR,2018-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,UNITDSPR,2019-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,UNITDSPR,2020-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,UNITDSPR,2021-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,UNITDSPR,2022-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,UNITDSPR,2023-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,UNITDSPR,2024-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,VBL,2012-12,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,VBL,2013-12,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,VBL,2014-12,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,VBL,2015-12,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,VBL,2016-12,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,VBL,2017-12,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,VBL,2018-12,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,VBL,2019-12,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,VBL,2020-12,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,VBL,2021-12,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,VBL,2022-12,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,VBL,2023-12,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,VEDL,2013-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,VEDL,2014-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,VEDL,2015-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,VEDL,2016-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,VEDL,2017-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,VEDL,2018-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,VEDL,2019-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,VEDL,2020-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,VEDL,2021-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,VEDL,2022-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,VEDL,2023-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,VEDL,2024-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,WIPRO,2013-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,WIPRO,2014-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,WIPRO,2015-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,WIPRO,2016-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,WIPRO,2017-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,WIPRO,2018-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,WIPRO,2019-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,WIPRO,2020-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,WIPRO,2021-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,WIPRO,2022-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,WIPRO,2023-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,WIPRO,2024-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,ZOMATO,2020-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,ZOMATO,2021-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,ZOMATO,2022-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,ZOMATO,2023-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,ZOMATO,2024-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,ZYDUSLIFE,2013-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,ZYDUSLIFE,2014-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,ZYDUSLIFE,2015-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,ZYDUSLIFE,2016-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,ZYDUSLIFE,2017-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,ZYDUSLIFE,2018-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,ZYDUSLIFE,2019-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,ZYDUSLIFE,2020-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,ZYDUSLIFE,2021-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,ZYDUSLIFE,2022-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,ZYDUSLIFE,2023-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-03,ZYDUSLIFE,2024-03,company_id,Orphan row in cashflow - company_id not in companies,CRITICAL
+DQ-02,TCS,2013-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,TCS,2014-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,TCS,2015-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,TCS,2016-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,TCS,2017-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,TCS,2018-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,TCS,2019-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,TCS,2020-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,TCS,2021-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,TCS,2022-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,TCS,2023-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,TCS,2024-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,ABB,2014-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,ABB,2015-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,ABB,2016-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,ABB,2017-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,ABB,2018-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,ABB,2019-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,ABB,2020-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,ABB,2021-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,ABB,2022-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,ABB,2023-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,ABB,2024-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,ABB,2014-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,ABB,2015-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,ABB,2016-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,ABB,2017-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,ABB,2018-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,ABB,2019-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,ABB,2020-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,ABB,2021-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,ABB,2022-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,ABB,2023-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,ABB,2024-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,BAJAJ-AUTO,2013-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,BAJAJ-AUTO,2014-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,BAJAJ-AUTO,2015-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,BAJAJ-AUTO,2016-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,BAJAJ-AUTO,2017-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,BAJAJ-AUTO,2018-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,BAJAJ-AUTO,2019-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,BAJAJ-AUTO,2020-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,BAJAJ-AUTO,2021-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,BAJAJ-AUTO,2022-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,BAJAJ-AUTO,2023-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,BAJAJ-AUTO,2024-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,BAJAJ-AUTO,2013-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,BAJAJ-AUTO,2014-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,BAJAJ-AUTO,2015-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,BAJAJ-AUTO,2016-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,BAJAJ-AUTO,2017-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,BAJAJ-AUTO,2018-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,BAJAJ-AUTO,2019-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,BAJAJ-AUTO,2020-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,BAJAJ-AUTO,2021-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,BAJAJ-AUTO,2022-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,BAJAJ-AUTO,2023-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,BAJAJ-AUTO,2024-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,TCS,2013-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,TCS,2014-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,TCS,2015-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,TCS,2016-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,TCS,2017-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,TCS,2018-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,TCS,2019-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,TCS,2020-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,TCS,2021-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,TCS,2022-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,TCS,2023-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-02,TCS,2024-03,"company_id,year",Duplicate key in cashflow,CRITICAL
+DQ-03,WIPRO,N/A,company_id,Orphan row in analysis - company_id not in companies,CRITICAL
+DQ-03,WIPRO,N/A,company_id,Orphan row in analysis - company_id not in companies,CRITICAL
+DQ-03,WIPRO,N/A,company_id,Orphan row in analysis - company_id not in companies,CRITICAL
+DQ-03,WIPRO,N/A,company_id,Orphan row in analysis - company_id not in companies,CRITICAL
+DQ-03,ULTRACEMCO,2024,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,ULTRACEMCO,2023,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,ULTRACEMCO,2022,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,ULTRACEMCO,2021,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,ULTRACEMCO,2020,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,ULTRACEMCO,2019,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,ULTRACEMCO,2018,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,ULTRACEMCO,2017,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,ULTRACEMCO,2016,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,ULTRACEMCO,2015,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,ULTRACEMCO,2014,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,ULTRACEMCO,2013,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,ULTRACEMCO,2012,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,ULTRACEMCO,2011,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,ULTRACEMCO,2010,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,ULTRACEMCO,2009,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,UNIONBANK,2024,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,UNIONBANK,2023,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,UNIONBANK,2022,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,UNIONBANK,2021,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,UNIONBANK,2020,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,UNIONBANK,2019,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,UNIONBANK,2018,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,UNIONBANK,2017,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,UNIONBANK,2016,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,UNIONBANK,2015,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,UNIONBANK,2014,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,UNIONBANK,2013,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,UNIONBANK,2012,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,UNIONBANK,2011,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,UNIONBANK,2010,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,UNIONBANK,2009,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,UNITDSPR,2024,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,UNITDSPR,2023,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,UNITDSPR,2022,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,UNITDSPR,2021,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,UNITDSPR,2020,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,UNITDSPR,2019,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,UNITDSPR,2018,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,UNITDSPR,2017,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,UNITDSPR,2016,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,UNITDSPR,2015,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,UNITDSPR,2014,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,UNITDSPR,2013,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,UNITDSPR,2012,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,UNITDSPR,2011,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,UNITDSPR,2010,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,UNITDSPR,2009,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,VBL,2024,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,VBL,2023,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,VBL,2022,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,VBL,2021,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,VBL,2020,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,VBL,2019,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,VBL,2018,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,VBL,2017,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,VBL,2016,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,VBL,2015,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,VBL,2014,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,VBL,2013,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,VBL,2012,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,VBL,2011,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,VBL,2010,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,VBL,2009,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,VEDL,2024,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,VEDL,2023,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,VEDL,2022,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,VEDL,2021,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,VEDL,2020,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,VEDL,2019,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,VEDL,2018,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,VEDL,2017,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,VEDL,2016,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,VEDL,2015,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,VEDL,2014,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,VEDL,2013,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,VEDL,2012,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,VEDL,2011,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,VEDL,2010,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,VEDL,2009,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,WIPRO,2024,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,WIPRO,2023,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,WIPRO,2022,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,WIPRO,2021,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,WIPRO,2020,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,WIPRO,2019,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,WIPRO,2018,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,WIPRO,2017,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,WIPRO,2016,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,WIPRO,2015,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,WIPRO,2014,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,WIPRO,2013,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,WIPRO,2012,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,WIPRO,2011,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,WIPRO,2010,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,WIPRO,2009,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,ZOMATO,2024,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,ZOMATO,2023,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,ZOMATO,2022,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,ZOMATO,2021,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,ZOMATO,2020,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,ZOMATO,2019,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,ZOMATO,2018,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,ZOMATO,2017,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,ZOMATO,2016,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,ZOMATO,2015,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,ZOMATO,2014,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,ZOMATO,2013,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,ZOMATO,2012,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,ZOMATO,2011,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,ZOMATO,2010,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,ZOMATO,2009,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,ZYDUSLIFE,2024,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,ZYDUSLIFE,2023,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,ZYDUSLIFE,2022,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,ZYDUSLIFE,2021,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,ZYDUSLIFE,2020,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,ZYDUSLIFE,2019,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,ZYDUSLIFE,2018,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,ZYDUSLIFE,2017,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,ZYDUSLIFE,2016,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,ZYDUSLIFE,2015,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,ZYDUSLIFE,2014,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,ZYDUSLIFE,2013,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,ZYDUSLIFE,2012,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,ZYDUSLIFE,2011,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,ZYDUSLIFE,2010,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,ZYDUSLIFE,2009,company_id,Orphan row in documents - company_id not in companies,CRITICAL
+DQ-03,WIPRO,N/A,company_id,Orphan row in prosandcons - company_id not in companies,CRITICAL
+DQ-03,WIPRO,N/A,company_id,Orphan row in prosandcons - company_id not in companies,CRITICAL
+DQ-06,ADANIENSOL,2014-03,sales,Non-positive sales for non-financial: 0,WARNING
+DQ-05,ADANIENSOL,2024-03,opm_percentage,"OPM mismatch: reported 30.0%, calculated 34.39%",WARNING
+DQ-11,ADANIENT,2014-03,tax_percentage,Tax percentage out of normal range: -64.0%,WARNING
+DQ-11,ADANIGREEN,2017-03,tax_percentage,Tax percentage out of normal range: -75.0%,WARNING
+DQ-11,ADANIGREEN,2018-03,tax_percentage,Tax percentage out of normal range: -35.0%,WARNING
+DQ-11,ADANIGREEN,2019-03,tax_percentage,Tax percentage out of normal range: -19.0%,WARNING
+DQ-11,ADANIPOWER,2014-03,tax_percentage,Tax percentage out of normal range: -79.0%,WARNING
+DQ-11,ADANIPOWER,2016-03,tax_percentage,Tax percentage out of normal range: -47.0%,WARNING
+DQ-11,ADANIPOWER,2017-03,tax_percentage,Tax percentage out of normal range: -1.0%,WARNING
+DQ-11,ADANIPOWER,2023-03,tax_percentage,Tax percentage out of normal range: -40.0%,WARNING
+DQ-11,AMBUJACEM,2018-12,tax_percentage,Tax percentage out of normal range: -2.0%,WARNING
+DQ-11,APOLLOHOSP,2018-03,tax_percentage,Tax percentage out of normal range: 65.0%,WARNING
+DQ-05,AXISBANK,2013-03,opm_percentage,"OPM mismatch: reported 1353.0%, calculated 30.58%",WARNING
+DQ-05,AXISBANK,2014-03,opm_percentage,"OPM mismatch: reported 2307.0%, calculated 31.47%",WARNING
+DQ-05,AXISBANK,2015-03,opm_percentage,"OPM mismatch: reported 3097.0%, calculated 31.36%",WARNING
+DQ-05,AXISBANK,2016-03,opm_percentage,"OPM mismatch: reported 3466.0%, calculated 32.61%",WARNING
+DQ-05,AXISBANK,2017-03,opm_percentage,"OPM mismatch: reported -5715.0%, calculated 53.45%",WARNING
+DQ-05,AXISBANK,2018-03,opm_percentage,"OPM mismatch: reported -10277.0%, calculated 63.12%",WARNING
+DQ-11,AXISBANK,2018-03,tax_percentage,Tax percentage out of normal range: -99.0%,WARNING
+DQ-05,AXISBANK,2019-03,opm_percentage,"OPM mismatch: reported -5447.0%, calculated 49.39%",WARNING
+DQ-05,AXISBANK,2020-03,opm_percentage,"OPM mismatch: reported -9859.0%, calculated 55.98%",WARNING
+DQ-11,AXISBANK,2020-03,tax_percentage,Tax percentage out of normal range: 67.0%,WARNING
+DQ-05,AXISBANK,2021-03,opm_percentage,"OPM mismatch: reported -2510.0%, calculated 50.12%",WARNING
+DQ-05,AXISBANK,2022-03,opm_percentage,"OPM mismatch: reported 3170.0%, calculated 44.47%",WARNING
+DQ-05,AXISBANK,2023-03,opm_percentage,"OPM mismatch: reported 13857.0%, calculated 34.16%",WARNING
+DQ-05,AXISBANK,2024-03,opm_percentage,"OPM mismatch: reported 11952.0%, calculated 34.69%",WARNING
+DQ-05,AXISBANK,PARSE_ERROR,opm_percentage,"OPM mismatch: reported 9061.0%, calculated 36.94%",WARNING
+DQ-05,BAJFINANCE,2015-03,opm_percentage,"OPM mismatch: reported 1367.0%, calculated 32.49%",WARNING
+DQ-05,BAJFINANCE,2016-03,opm_percentage,"OPM mismatch: reported 1986.0%, calculated 32.25%",WARNING
+DQ-05,BAJFINANCE,2017-03,opm_percentage,"OPM mismatch: reported 2867.0%, calculated 32.60%",WARNING
+DQ-05,BAJFINANCE,2018-03,opm_percentage,"OPM mismatch: reported 3935.0%, calculated 32.28%",WARNING
+DQ-05,BAJFINANCE,2019-03,opm_percentage,"OPM mismatch: reported 6310.0%, calculated 29.50%",WARNING
+DQ-05,BAJFINANCE,2020-03,opm_percentage,"OPM mismatch: reported 7608.0%, calculated 34.73%",WARNING
+DQ-05,BAJFINANCE,2021-03,opm_percentage,"OPM mismatch: reported 6314.0%, calculated 40.64%",WARNING
+DQ-05,BAJFINANCE,2022-03,opm_percentage,"OPM mismatch: reported 9906.0%, calculated 37.55%",WARNING
+DQ-05,BAJFINANCE,2023-03,opm_percentage,"OPM mismatch: reported 16018.0%, calculated 30.65%",WARNING
+DQ-05,BAJFINANCE,2024-03,opm_percentage,"OPM mismatch: reported 19987.0%, calculated 29.29%",WARNING
+DQ-05,BAJFINANCE,PARSE_ERROR,opm_percentage,"OPM mismatch: reported 21417.0%, calculated 30.42%",WARNING
+DQ-05,BANKBARODA,2013-03,opm_percentage,"OPM mismatch: reported 1006.0%, calculated 30.05%",WARNING
+DQ-05,BANKBARODA,2014-03,opm_percentage,"OPM mismatch: reported 809.0%, calculated 29.78%",WARNING
+DQ-05,BANKBARODA,2015-03,opm_percentage,"OPM mismatch: reported 902.0%, calculated 29.98%",WARNING
+DQ-05,BANKBARODA,2016-03,opm_percentage,"OPM mismatch: reported -11700.0%, calculated 55.44%",WARNING
+DQ-11,BANKBARODA,2016-03,tax_percentage,Tax percentage out of normal range: -19.0%,WARNING
+DQ-05,BANKBARODA,2017-03,opm_percentage,"OPM mismatch: reported -4372.0%, calculated 43.28%",WARNING
+DQ-05,BANKBARODA,2018-03,opm_percentage,"OPM mismatch: reported -9197.0%, calculated 56.65%",WARNING
+DQ-11,BANKBARODA,2018-03,tax_percentage,Tax percentage out of normal range: -9.0%,WARNING
+DQ-05,BANKBARODA,2019-03,opm_percentage,"OPM mismatch: reported -5414.0%, calculated 48.79%",WARNING
+DQ-05,BANKBARODA,2020-03,opm_percentage,"OPM mismatch: reported -11728.0%, calculated 51.44%",WARNING
+DQ-11,BANKBARODA,2020-03,tax_percentage,Tax percentage out of normal range: -99.0%,WARNING
+DQ-05,BANKBARODA,2021-03,opm_percentage,"OPM mismatch: reported -6957.0%, calculated 51.23%",WARNING
+DQ-11,BANKBARODA,2021-03,tax_percentage,Tax percentage out of normal range: 77.0%,WARNING
+DQ-05,BANKBARODA,2022-03,opm_percentage,"OPM mismatch: reported -2948.0%, calculated 51.12%",WARNING
+DQ-05,BANKBARODA,2023-03,opm_percentage,"OPM mismatch: reported 6329.0%, calculated 40.45%",WARNING
+DQ-05,BANKBARODA,2024-03,opm_percentage,"OPM mismatch: reported 4102.0%, calculated 37.49%",WARNING
+DQ-05,BANKBARODA,PARSE_ERROR,opm_percentage,"OPM mismatch: reported 3526.0%, calculated 37.42%",WARNING
+DQ-11,BHARTIARTL,2014-03,tax_percentage,Tax percentage out of normal range: 62.0%,WARNING
+DQ-11,BHARTIARTL,2019-03,tax_percentage,Tax percentage out of normal range: -99.0%,WARNING
+DQ-12,BHARTIARTL,2019-03,dividend_payout,High dividend payout ratio: 244.0%,WARNING
+DQ-11,BHARTIARTL,2020-03,tax_percentage,Tax percentage out of normal range: -28.0%,WARNING
+DQ-11,BHARTIARTL,2021-03,tax_percentage,Tax percentage out of normal range: 99.0%,WARNING
+DQ-11,BHEL,2016-03,tax_percentage,Tax percentage out of normal range: -39.0%,WARNING
+DQ-11,BHEL,2018-03,tax_percentage,Tax percentage out of normal range: 64.0%,WARNING
+DQ-11,BHEL,2020-03,tax_percentage,Tax percentage out of normal range: 99.0%,WARNING
+DQ-11,BHEL,2021-03,tax_percentage,Tax percentage out of normal range: -25.0%,WARNING
+DQ-11,BHEL,2024-03,tax_percentage,Tax percentage out of normal range: -16.0%,WARNING
+DQ-12,BRITANNIA,2021-03,dividend_payout,High dividend payout ratio: 204.0%,WARNING
+DQ-05,CANBK,2013-03,opm_percentage,"OPM mismatch: reported 655.0%, calculated 21.18%",WARNING
+DQ-05,CANBK,2014-03,opm_percentage,"OPM mismatch: reported -672.0%, calculated 24.35%",WARNING
+DQ-05,CANBK,2015-03,opm_percentage,"OPM mismatch: reported -621.0%, calculated 23.51%",WARNING
+DQ-05,CANBK,2016-03,opm_percentage,"OPM mismatch: reported -8008.0%, calculated 40.38%",WARNING
+DQ-11,CANBK,2016-03,tax_percentage,Tax percentage out of normal range: -13.0%,WARNING
+DQ-05,CANBK,2017-03,opm_percentage,"OPM mismatch: reported -5775.0%, calculated 37.85%",WARNING
+DQ-05,CANBK,2018-03,opm_percentage,"OPM mismatch: reported -13350.0%, calculated 61.87%",WARNING
+DQ-11,CANBK,2018-03,tax_percentage,Tax percentage out of normal range: -36.0%,WARNING
+DQ-05,CANBK,2019-03,opm_percentage,"OPM mismatch: reported -11590.0%, calculated 56.73%",WARNING
+DQ-11,CANBK,2019-03,tax_percentage,Tax percentage out of normal range: -99.0%,WARNING
+DQ-05,CANBK,2020-03,opm_percentage,"OPM mismatch: reported -12867.0%, calculated 53.88%",WARNING
+DQ-05,CANBK,2021-03,opm_percentage,"OPM mismatch: reported -18367.0%, calculated 61.83%",WARNING
+DQ-05,CANBK,2022-03,opm_percentage,"OPM mismatch: reported -13657.0%, calculated 58.39%",WARNING
+DQ-05,CANBK,2023-03,opm_percentage,"OPM mismatch: reported -9877.0%, calculated 49.80%",WARNING
+DQ-05,CANBK,2024-03,opm_percentage,"OPM mismatch: reported -7745.0%, calculated 41.75%",WARNING
+DQ-05,CANBK,PARSE_ERROR,opm_percentage,"OPM mismatch: reported -8985.0%, calculated 40.23%",WARNING
+DQ-05,CHOLAFIN,2013-03,opm_percentage,"OPM mismatch: reported 472.0%, calculated 26.77%",WARNING
+DQ-05,CHOLAFIN,2014-03,opm_percentage,"OPM mismatch: reported 578.0%, calculated 28.42%",WARNING
+DQ-05,CHOLAFIN,2015-03,opm_percentage,"OPM mismatch: reported 696.0%, calculated 28.56%",WARNING
+DQ-05,CHOLAFIN,2016-03,opm_percentage,"OPM mismatch: reported 899.0%, calculated 30.04%",WARNING
+DQ-05,CHOLAFIN,2017-03,opm_percentage,"OPM mismatch: reported 1143.0%, calculated 28.16%",WARNING
+DQ-05,CHOLAFIN,2018-03,opm_percentage,"OPM mismatch: reported 1451.0%, calculated 26.10%",WARNING
+DQ-05,CHOLAFIN,2019-03,opm_percentage,"OPM mismatch: reported 1888.0%, calculated 22.96%",WARNING
+DQ-05,CHOLAFIN,2020-03,opm_percentage,"OPM mismatch: reported 1699.0%, calculated 27.79%",WARNING
+DQ-05,CHOLAFIN,2021-03,opm_percentage,"OPM mismatch: reported 2094.0%, calculated 30.40%",WARNING
+DQ-05,CHOLAFIN,2022-03,opm_percentage,"OPM mismatch: reported 2924.0%, calculated 28.83%",WARNING
+DQ-05,CHOLAFIN,2023-03,opm_percentage,"OPM mismatch: reported 3515.0%, calculated 28.10%",WARNING
+DQ-05,CHOLAFIN,2024-03,opm_percentage,"OPM mismatch: reported 4548.0%, calculated 28.10%",WARNING
+DQ-05,CHOLAFIN,PARSE_ERROR,opm_percentage,"OPM mismatch: reported 5175.0%, calculated 28.67%",WARNING
+DQ-05,CIPLA,2013-03,opm_percentage,"OPM mismatch: reported 2214.0%, calculated 73.26%",WARNING
+DQ-05,CIPLA,2014-03,opm_percentage,"OPM mismatch: reported 2147.0%, calculated 78.90%",WARNING
+DQ-05,CIPLA,2015-03,opm_percentage,"OPM mismatch: reported 2163.0%, calculated 80.94%",WARNING
+DQ-05,CIPLA,2016-03,opm_percentage,"OPM mismatch: reported 2480.0%, calculated 82.02%",WARNING
+DQ-05,CIPLA,2017-03,opm_percentage,"OPM mismatch: reported 2496.0%, calculated 82.66%",WARNING
+DQ-05,CIPLA,2018-03,opm_percentage,"OPM mismatch: reported 2826.0%, calculated 81.35%",WARNING
+DQ-05,CIPLA,2019-03,opm_percentage,"OPM mismatch: reported 3097.0%, calculated 81.07%",WARNING
+DQ-05,CIPLA,2020-03,opm_percentage,"OPM mismatch: reported 3206.0%, calculated 81.29%",WARNING
+DQ-05,CIPLA,2021-03,opm_percentage,"OPM mismatch: reported 4252.0%, calculated 77.80%",WARNING
+DQ-05,CIPLA,2022-03,opm_percentage,"OPM mismatch: reported 4553.0%, calculated 79.08%",WARNING
+DQ-05,CIPLA,2023-03,opm_percentage,"OPM mismatch: reported 5027.0%, calculated 77.91%",WARNING
+DQ-05,CIPLA,2024-03,opm_percentage,"OPM mismatch: reported 6291.0%, calculated 75.59%",WARNING
+DQ-05,CIPLA,PARSE_ERROR,opm_percentage,"OPM mismatch: reported 6906.0%, calculated 74.40%",WARNING
+DQ-05,COALINDIA,2013-03,opm_percentage,"OPM mismatch: reported 18087.0%, calculated 73.52%",WARNING
+DQ-05,COALINDIA,2014-03,opm_percentage,"OPM mismatch: reported 17766.0%, calculated 74.84%",WARNING
+DQ-05,COALINDIA,2015-03,opm_percentage,"OPM mismatch: reported 17343.0%, calculated 76.60%",WARNING
+DQ-05,COALINDIA,2016-03,opm_percentage,"OPM mismatch: reported 18714.0%, calculated 75.96%",WARNING
+DQ-05,COALINDIA,2017-03,opm_percentage,"OPM mismatch: reported 12448.0%, calculated 84.07%",WARNING
+DQ-05,COALINDIA,2018-03,opm_percentage,"OPM mismatch: reported 9288.0%, calculated 89.10%",WARNING
+DQ-05,COALINDIA,2019-03,opm_percentage,"OPM mismatch: reported 25007.0%, calculated 74.89%",WARNING
+DQ-05,COALINDIA,2020-03,opm_percentage,"OPM mismatch: reported 21581.0%, calculated 77.54%",WARNING
+DQ-05,COALINDIA,2021-03,opm_percentage,"OPM mismatch: reported 18628.0%, calculated 79.31%",WARNING
+DQ-05,COALINDIA,2022-03,opm_percentage,"OPM mismatch: reported 24721.0%, calculated 77.47%",WARNING
+DQ-05,COALINDIA,2023-03,opm_percentage,"OPM mismatch: reported 44232.0%, calculated 68.01%",WARNING
+DQ-05,COALINDIA,2024-03,opm_percentage,"OPM mismatch: reported 47971.0%, calculated 66.29%",WARNING
+DQ-05,COALINDIA,PARSE_ERROR,opm_percentage,"OPM mismatch: reported 46610.0%, calculated 66.78%",WARNING
+DQ-11,DLF,2014-03,tax_percentage,Tax percentage out of normal range: -16.0%,WARNING
+DQ-11,DLF,2020-03,tax_percentage,Tax percentage out of normal range: 99.0%,WARNING
+DQ-11,DRREDDY,2020-03,tax_percentage,Tax percentage out of normal range: -7.0%,WARNING
+DQ-11,GODREJCP,2019-03,tax_percentage,Tax percentage out of normal range: -12.0%,WARNING
+DQ-11,GODREJCP,2024-03,tax_percentage,Tax percentage out of normal range: 99.0%,WARNING
+DQ-11,GRASIM,2020-03,tax_percentage,Tax percentage out of normal range: -1.0%,WARNING
+DQ-05,HDFCBANK,2013-03,opm_percentage,"OPM mismatch: reported 3534.0%, calculated 35.22%",WARNING
+DQ-05,HDFCBANK,2014-03,opm_percentage,"OPM mismatch: reported 5602.0%, calculated 31.74%",WARNING
+DQ-05,HDFCBANK,2015-03,opm_percentage,"OPM mismatch: reported 7214.0%, calculated 31.90%",WARNING
+DQ-05,HDFCBANK,2016-03,opm_percentage,"OPM mismatch: reported 9037.0%, calculated 31.75%",WARNING
+DQ-05,HDFCBANK,2017-03,opm_percentage,"OPM mismatch: reported 11374.0%, calculated 32.56%",WARNING
+DQ-05,HDFCBANK,2018-03,opm_percentage,"OPM mismatch: reported 13374.0%, calculated 34.63%",WARNING
+DQ-05,HDFCBANK,2019-03,opm_percentage,"OPM mismatch: reported 16592.0%, calculated 33.15%",WARNING
+DQ-05,HDFCBANK,2020-03,opm_percentage,"OPM mismatch: reported 14593.0%, calculated 37.20%",WARNING
+DQ-05,HDFCBANK,2021-03,opm_percentage,"OPM mismatch: reported 16848.0%, calculated 40.81%",WARNING
+DQ-05,HDFCBANK,2022-03,opm_percentage,"OPM mismatch: reported 20795.0%, calculated 41.61%",WARNING
+DQ-05,HDFCBANK,2023-03,opm_percentage,"OPM mismatch: reported 29932.0%, calculated 36.92%",WARNING
+DQ-05,HDFCBANK,2024-03,opm_percentage,"OPM mismatch: reported -44685.0%, calculated 61.41%",WARNING
+DQ-05,HDFCBANK,PARSE_ERROR,opm_percentage,"OPM mismatch: reported -57587.0%, calculated 62.61%",WARNING
+DQ-05,HDFCLIFE,2013-03,opm_percentage,"OPM mismatch: reported 525.0%, calculated 96.27%",WARNING
+DQ-05,HDFCLIFE,2014-03,opm_percentage,"OPM mismatch: reported 605.0%, calculated 96.48%",WARNING
+DQ-05,HDFCLIFE,2015-03,opm_percentage,"OPM mismatch: reported 874.0%, calculated 96.79%",WARNING
+DQ-05,HDFCLIFE,2016-03,opm_percentage,"OPM mismatch: reported 953.0%, calculated 94.74%",WARNING
+DQ-05,HDFCLIFE,2017-03,opm_percentage,"OPM mismatch: reported 972.0%, calculated 96.83%",WARNING
+DQ-05,HDFCLIFE,2018-03,opm_percentage,"OPM mismatch: reported 1074.0%, calculated 96.67%",WARNING
+DQ-05,HDFCLIFE,2019-03,opm_percentage,"OPM mismatch: reported 1215.0%, calculated 96.87%",WARNING
+DQ-05,HDFCLIFE,2020-03,opm_percentage,"OPM mismatch: reported 1141.0%, calculated 96.12%",WARNING
+DQ-05,HDFCLIFE,2021-03,opm_percentage,"OPM mismatch: reported 1235.0%, calculated 98.27%",WARNING
+DQ-05,HDFCLIFE,2022-03,opm_percentage,"OPM mismatch: reported 778.0%, calculated 98.84%",WARNING
+DQ-05,HDFCLIFE,2023-03,opm_percentage,"OPM mismatch: reported 80.0%, calculated 99.89%",WARNING
+DQ-05,HDFCLIFE,2024-03,opm_percentage,"OPM mismatch: reported 531.0%, calculated 99.48%",WARNING
+DQ-11,HDFCLIFE,2024-03,tax_percentage,Tax percentage out of normal range: -61.0%,WARNING
+DQ-05,HDFCLIFE,PARSE_ERROR,opm_percentage,"OPM mismatch: reported 725.0%, calculated 99.28%",WARNING
+DQ-05,HEROMOTOCO,2014-03,opm_percentage,"OPM mismatch: reported 3553.0%, calculated 85.94%",WARNING
+DQ-05,HEROMOTOCO,2015-03,opm_percentage,"OPM mismatch: reported 3520.0%, calculated 87.22%",WARNING
+DQ-05,HEROMOTOCO,2016-03,opm_percentage,"OPM mismatch: reported 4424.0%, calculated 84.45%",WARNING
+DQ-05,HEROMOTOCO,2017-03,opm_percentage,"OPM mismatch: reported 4585.0%, calculated 83.97%",WARNING
+DQ-05,HEROMOTOCO,2018-03,opm_percentage,"OPM mismatch: reported 5334.0%, calculated 83.57%",WARNING
+DQ-05,HEROMOTOCO,2019-03,opm_percentage,"OPM mismatch: reported 5025.0%, calculated 85.21%",WARNING
+DQ-05,HEROMOTOCO,2020-03,opm_percentage,"OPM mismatch: reported 4070.0%, calculated 86.09%",WARNING
+DQ-05,HEROMOTOCO,2021-03,opm_percentage,"OPM mismatch: reported 4058.0%, calculated 86.90%",WARNING
+DQ-05,HEROMOTOCO,2022-03,opm_percentage,"OPM mismatch: reported 3256.0%, calculated 88.98%",WARNING
+DQ-05,HEROMOTOCO,2023-03,opm_percentage,"OPM mismatch: reported 4099.0%, calculated 88.00%",WARNING
+DQ-05,HEROMOTOCO,2024-03,opm_percentage,"OPM mismatch: reported 5235.0%, calculated 86.15%",WARNING
+DQ-05,HEROMOTOCO,PARSE_ERROR,opm_percentage,"OPM mismatch: reported 5561.0%, calculated 86.13%",WARNING
+DQ-05,HINDALCO,2013-03,opm_percentage,"OPM mismatch: reported 7699.0%, calculated 90.40%",WARNING
+DQ-05,HINDALCO,2014-03,opm_percentage,"OPM mismatch: reported 8024.0%, calculated 90.85%",WARNING
+DQ-05,HINDALCO,2015-03,opm_percentage,"OPM mismatch: reported 8844.0%, calculated 91.52%",WARNING
+DQ-11,HINDALCO,2015-03,tax_percentage,Tax percentage out of normal range: 75.0%,WARNING
+DQ-05,HINDALCO,2016-03,opm_percentage,"OPM mismatch: reported 7778.0%, calculated 92.12%",WARNING
+DQ-11,HINDALCO,2016-03,tax_percentage,Tax percentage out of normal range: 99.0%,WARNING
+DQ-05,HINDALCO,2017-03,opm_percentage,"OPM mismatch: reported 12317.0%, calculated 87.71%",WARNING
+DQ-05,HINDALCO,2018-03,opm_percentage,"OPM mismatch: reported 13695.0%, calculated 88.11%",WARNING
+DQ-05,HINDALCO,2019-03,opm_percentage,"OPM mismatch: reported 15511.0%, calculated 88.12%",WARNING
+DQ-05,HINDALCO,2020-03,opm_percentage,"OPM mismatch: reported 14306.0%, calculated 87.89%",WARNING
+DQ-05,HINDALCO,2021-03,opm_percentage,"OPM mismatch: reported 17559.0%, calculated 86.70%",WARNING
+DQ-05,HINDALCO,2022-03,opm_percentage,"OPM mismatch: reported 28347.0%, calculated 85.47%",WARNING
+DQ-05,HINDALCO,2023-03,opm_percentage,"OPM mismatch: reported 22666.0%, calculated 89.85%",WARNING
+DQ-05,HINDALCO,2024-03,opm_percentage,"OPM mismatch: reported 23872.0%, calculated 88.95%",WARNING
+DQ-05,HINDALCO,PARSE_ERROR,opm_percentage,"OPM mismatch: reported 27931.0%, calculated 87.53%",WARNING
+DQ-05,HINDUNILVR,2013-03,opm_percentage,"OPM mismatch: reported 4220.0%, calculated 84.37%",WARNING
+DQ-05,HINDUNILVR,2014-03,opm_percentage,"OPM mismatch: reported 4759.0%, calculated 83.72%",WARNING
+DQ-05,HINDUNILVR,2015-03,opm_percentage,"OPM mismatch: reported 5412.0%, calculated 83.07%",WARNING
+DQ-05,HINDUNILVR,2016-03,opm_percentage,"OPM mismatch: reported 5910.0%, calculated 81.64%",WARNING
+DQ-05,HINDUNILVR,2017-03,opm_percentage,"OPM mismatch: reported 6328.0%, calculated 80.92%",WARNING
+DQ-05,HINDUNILVR,2018-03,opm_percentage,"OPM mismatch: reported 7499.0%, calculated 78.90%",WARNING
+DQ-05,HINDUNILVR,2019-03,opm_percentage,"OPM mismatch: reported 8880.0%, calculated 77.41%",WARNING
+DQ-05,HINDUNILVR,2020-03,opm_percentage,"OPM mismatch: reported 9861.0%, calculated 75.21%",WARNING
+DQ-05,HINDUNILVR,2021-03,opm_percentage,"OPM mismatch: reported 11626.0%, calculated 75.28%",WARNING
+DQ-05,HINDUNILVR,2022-03,opm_percentage,"OPM mismatch: reported 12857.0%, calculated 75.49%",WARNING
+DQ-05,HINDUNILVR,2023-03,opm_percentage,"OPM mismatch: reported 14147.0%, calculated 76.65%",WARNING
+DQ-05,HINDUNILVR,2024-03,opm_percentage,"OPM mismatch: reported 14659.0%, calculated 76.32%",WARNING
+DQ-05,HINDUNILVR,PARSE_ERROR,opm_percentage,"OPM mismatch: reported 14759.0%, calculated 76.45%",WARNING
+DQ-05,ICICIBANK,2013-03,opm_percentage,"OPM mismatch: reported -15085.0%, calculated 70.59%",WARNING
+DQ-05,ICICIBANK,2014-03,opm_percentage,"OPM mismatch: reported -13084.0%, calculated 66.40%",WARNING
+DQ-05,ICICIBANK,2015-03,opm_percentage,"OPM mismatch: reported -16120.0%, calculated 70.53%",WARNING
+DQ-05,ICICIBANK,2016-03,opm_percentage,"OPM mismatch: reported -26955.0%, calculated 88.12%",WARNING
+DQ-05,ICICIBANK,2017-03,opm_percentage,"OPM mismatch: reported -37737.0%, calculated 104.76%",WARNING
+DQ-05,ICICIBANK,2018-03,opm_percentage,"OPM mismatch: reported -44906.0%, calculated 117.12%",WARNING
+DQ-05,ICICIBANK,2019-03,opm_percentage,"OPM mismatch: reported -50971.0%, calculated 116.38%",WARNING
+DQ-05,ICICIBANK,2020-03,opm_percentage,"OPM mismatch: reported -45190.0%, calculated 100.62%",WARNING
+DQ-05,ICICIBANK,2021-03,opm_percentage,"OPM mismatch: reported -44805.0%, calculated 102.41%",WARNING
+DQ-05,ICICIBANK,2022-03,opm_percentage,"OPM mismatch: reported -26558.0%, calculated 84.69%",WARNING
+DQ-05,ICICIBANK,2023-03,opm_percentage,"OPM mismatch: reported -17341.0%, calculated 72.57%",WARNING
+DQ-05,ICICIBANK,2024-03,opm_percentage,"OPM mismatch: reported -14152.0%, calculated 62.41%",WARNING
+DQ-05,ICICIBANK,PARSE_ERROR,opm_percentage,"OPM mismatch: reported -31575.0%, calculated 69.63%",WARNING
+DQ-05,ICICIGI,2013-03,opm_percentage,"OPM mismatch: reported -178.0%, calculated 104.46%",WARNING
+DQ-05,ICICIGI,2014-03,opm_percentage,"OPM mismatch: reported -225.0%, calculated 105.19%",WARNING
+DQ-05,ICICIGI,2015-03,opm_percentage,"OPM mismatch: reported -221.0%, calculated 105.24%",WARNING
+DQ-05,ICICIGI,2016-03,opm_percentage,"OPM mismatch: reported 764.0%, calculated 87.34%",WARNING
+DQ-05,ICICIGI,2017-03,opm_percentage,"OPM mismatch: reported 919.0%, calculated 87.78%",WARNING
+DQ-05,ICICIGI,2018-03,opm_percentage,"OPM mismatch: reported -262.0%, calculated 103.79%",WARNING
+DQ-05,ICICIGI,2019-03,opm_percentage,"OPM mismatch: reported 1669.0%, calculated 85.05%",WARNING
+DQ-05,ICICIGI,2020-03,opm_percentage,"OPM mismatch: reported 1772.0%, calculated 84.61%",WARNING
+DQ-05,ICICIGI,2021-03,opm_percentage,"OPM mismatch: reported 2072.0%, calculated 82.97%",WARNING
+DQ-05,ICICIGI,2022-03,opm_percentage,"OPM mismatch: reported 1016.0%, calculated 93.66%",WARNING
+DQ-05,ICICIGI,2023-03,opm_percentage,"OPM mismatch: reported 1264.0%, calculated 92.93%",WARNING
+DQ-05,ICICIGI,2024-03,opm_percentage,"OPM mismatch: reported 2577.0%, calculated 87.42%",WARNING
+DQ-05,ICICIGI,PARSE_ERROR,opm_percentage,"OPM mismatch: reported 3363.0%, calculated 85.57%",WARNING
+DQ-05,ICICIPRULI,2013-03,opm_percentage,"OPM mismatch: reported 745.0%, calculated 96.28%",WARNING
+DQ-05,ICICIPRULI,2014-03,opm_percentage,"OPM mismatch: reported 1504.0%, calculated 93.13%",WARNING
+DQ-05,ICICIPRULI,2015-03,opm_percentage,"OPM mismatch: reported 1655.0%, calculated 95.20%",WARNING
+DQ-05,ICICIPRULI,2016-03,opm_percentage,"OPM mismatch: reported 1842.0%, calculated 91.17%",WARNING
+DQ-05,ICICIPRULI,2017-03,opm_percentage,"OPM mismatch: reported 1806.0%, calculated 95.22%",WARNING
+DQ-05,ICICIPRULI,2018-03,opm_percentage,"OPM mismatch: reported 1771.0%, calculated 95.44%",WARNING
+DQ-05,ICICIPRULI,2019-03,opm_percentage,"OPM mismatch: reported 541.0%, calculated 98.70%",WARNING
+DQ-05,ICICIPRULI,2020-03,opm_percentage,"OPM mismatch: reported -319.0%, calculated 101.52%",WARNING
+DQ-05,ICICIPRULI,2021-03,opm_percentage,"OPM mismatch: reported -390.0%, calculated 100.47%",WARNING
+DQ-05,ICICIPRULI,2022-03,opm_percentage,"OPM mismatch: reported -2163.0%, calculated 103.40%",WARNING
+DQ-05,ICICIPRULI,2023-03,opm_percentage,"OPM mismatch: reported -1757.0%, calculated 103.48%",WARNING
+DQ-05,ICICIPRULI,2024-03,opm_percentage,"OPM mismatch: reported -1829.0%, calculated 102.03%",WARNING
+DQ-05,ICICIPRULI,PARSE_ERROR,opm_percentage,"OPM mismatch: reported 321.0%, calculated 99.59%",WARNING
+DQ-05,INDUSINDBK,2013-03,opm_percentage,"OPM mismatch: reported 286.0%, calculated 27.88%",WARNING
+DQ-05,INDUSINDBK,2014-03,opm_percentage,"OPM mismatch: reported 335.0%, calculated 30.95%",WARNING
+DQ-05,INDUSINDBK,2015-03,opm_percentage,"OPM mismatch: reported 288.0%, calculated 32.33%",WARNING
+DQ-05,INDUSINDBK,2016-03,opm_percentage,"OPM mismatch: reported 329.0%, calculated 35.28%",WARNING
+DQ-05,INDUSINDBK,2017-03,opm_percentage,"OPM mismatch: reported 379.0%, calculated 39.46%",WARNING
+DQ-05,INDUSINDBK,2018-03,opm_percentage,"OPM mismatch: reported 942.0%, calculated 37.93%",WARNING
+DQ-05,INDUSINDBK,2019-03,opm_percentage,"OPM mismatch: reported -437.0%, calculated 41.70%",WARNING
+DQ-05,INDUSINDBK,2020-03,opm_percentage,"OPM mismatch: reported -553.0%, calculated 43.81%",WARNING
+DQ-05,INDUSINDBK,2021-03,opm_percentage,"OPM mismatch: reported -2469.0%, calculated 55.16%",WARNING
+DQ-05,INDUSINDBK,2022-03,opm_percentage,"OPM mismatch: reported -839.0%, calculated 51.39%",WARNING
+DQ-05,INDUSINDBK,2023-03,opm_percentage,"OPM mismatch: reported 2067.0%, calculated 42.69%",WARNING
+DQ-05,INDUSINDBK,2024-03,opm_percentage,"OPM mismatch: reported 2978.0%, calculated 38.55%",WARNING
+DQ-05,INDUSINDBK,PARSE_ERROR,opm_percentage,"OPM mismatch: reported 1323.0%, calculated 41.03%",WARNING
+DQ-11,IOC,2020-03,tax_percentage,Tax percentage out of normal range: -74.0%,WARNING
+DQ-11,IRFC,2013-03,tax_percentage,Tax percentage out of normal range: 64.0%,WARNING
+DQ-11,JINDALSTEL,2015-03,tax_percentage,Tax percentage out of normal range: -6.0%,WARNING
+DQ-11,JINDALSTEL,2016-03,tax_percentage,Tax percentage out of normal range: -22.0%,WARNING
+DQ-11,JINDALSTEL,2017-03,tax_percentage,Tax percentage out of normal range: -17.0%,WARNING
+DQ-11,JINDALSTEL,2018-03,tax_percentage,Tax percentage out of normal range: -13.0%,WARNING
+DQ-11,JINDALSTEL,2019-03,tax_percentage,Tax percentage out of normal range: -14.0%,WARNING
+DQ-05,JIOFIN,2023-03,opm_percentage,"OPM mismatch: reported 88.0%, calculated 86.67%",WARNING
+DQ-11,JSWENERGY,2018-03,tax_percentage,Tax percentage out of normal range: 75.0%,WARNING
+DQ-14,JSWENERGY,2018-03,eps,"EPS negative or zero while net_profit > 0: EPS=0.0, PAT=85",WARNING
+DQ-11,JSWSTEEL,2014-03,tax_percentage,Tax percentage out of normal range: 70.0%,WARNING
+DQ-11,JSWSTEEL,2016-03,tax_percentage,Tax percentage out of normal range: -80.0%,WARNING
+DQ-11,JSWSTEEL,2020-03,tax_percentage,Tax percentage out of normal range: -30.0%,WARNING
+DQ-05,KOTAKBANK,2013-03,opm_percentage,"OPM mismatch: reported -1789.0%, calculated 60.92%",WARNING
+DQ-05,KOTAKBANK,2014-03,opm_percentage,"OPM mismatch: reported -1379.0%, calculated 58.84%",WARNING
+DQ-05,KOTAKBANK,2015-03,opm_percentage,"OPM mismatch: reported -3366.0%, calculated 72.96%",WARNING
+DQ-05,KOTAKBANK,2016-03,opm_percentage,"OPM mismatch: reported -2263.0%, calculated 56.57%",WARNING
+DQ-05,KOTAKBANK,2017-03,opm_percentage,"OPM mismatch: reported -3965.0%, calculated 66.44%",WARNING
+DQ-05,KOTAKBANK,2018-03,opm_percentage,"OPM mismatch: reported -4141.0%, calculated 66.87%",WARNING
+DQ-05,KOTAKBANK,2019-03,opm_percentage,"OPM mismatch: reported -5114.0%, calculated 66.23%",WARNING
+DQ-05,KOTAKBANK,2020-03,opm_percentage,"OPM mismatch: reported -5005.0%, calculated 67.45%",WARNING
+DQ-05,KOTAKBANK,2021-03,opm_percentage,"OPM mismatch: reported -9958.0%, calculated 90.83%",WARNING
+DQ-05,KOTAKBANK,2022-03,opm_percentage,"OPM mismatch: reported -8512.0%, calculated 90.98%",WARNING
+DQ-05,KOTAKBANK,2023-03,opm_percentage,"OPM mismatch: reported -5746.0%, calculated 79.44%",WARNING
+DQ-05,KOTAKBANK,2024-03,opm_percentage,"OPM mismatch: reported -13382.0%, calculated 83.67%",WARNING
+DQ-05,KOTAKBANK,PARSE_ERROR,opm_percentage,"OPM mismatch: reported -14146.0%, calculated 79.42%",WARNING
+DQ-11,LICI,2019-03,tax_percentage,Tax percentage out of normal range: 68.0%,WARNING
+DQ-11,LICI,2020-03,tax_percentage,Tax percentage out of normal range: 80.0%,WARNING
+DQ-11,LICI,2021-03,tax_percentage,Tax percentage out of normal range: 76.0%,WARNING
+DQ-11,LICI,2022-03,tax_percentage,Tax percentage out of normal range: 66.0%,WARNING
+DQ-11,LODHA,2021-03,tax_percentage,Tax percentage out of normal range: -44.0%,WARNING
+DQ-11,LODHA,2023-03,tax_percentage,Tax percentage out of normal range: -8.0%,WARNING
+DQ-11,M&M,2020-03,tax_percentage,Tax percentage out of normal range: 99.0%,WARNING
+DQ-12,M&M,2020-03,dividend_payout,High dividend payout ratio: 205.0%,WARNING
+DQ-11,MOTHERSON,2020-03,tax_percentage,Tax percentage out of normal range: -5.0%,WARNING
+DQ-11,NAUKRI,2015-03,tax_percentage,Tax percentage out of normal range: 99.0%,WARNING
+DQ-11,NAUKRI,2017-03,tax_percentage,Tax percentage out of normal range: 99.0%,WARNING
+DQ-11,NAUKRI,2020-03,tax_percentage,Tax percentage out of normal range: 95.0%,WARNING
+DQ-11,NAUKRI,2023-03,tax_percentage,Tax percentage out of normal range: 99.0%,WARNING
+DQ-11,NHPC,2020-03,tax_percentage,Tax percentage out of normal range: -2.0%,WARNING
+DQ-11,NHPC,2022-03,tax_percentage,Tax percentage out of normal range: -17.0%,WARNING
+DQ-11,NTPC,2016-03,tax_percentage,Tax percentage out of normal range: -2.0%,WARNING
+DQ-11,NTPC,2019-03,tax_percentage,Tax percentage out of normal range: -25.0%,WARNING
+DQ-11,PNB,2016-03,tax_percentage,Tax percentage out of normal range: -31.0%,WARNING
+DQ-11,PNB,2018-03,tax_percentage,Tax percentage out of normal range: -37.0%,WARNING
+DQ-11,PNB,2019-03,tax_percentage,Tax percentage out of normal range: -35.0%,WARNING
+DQ-11,POWERGRID,2019-03,tax_percentage,Tax percentage out of normal range: -10.0%,WARNING
+DQ-11,SBIN,2017-03,tax_percentage,Tax percentage out of normal range: 99.0%,WARNING
+DQ-12,SBIN,2017-03,dividend_payout,High dividend payout ratio: 859.0%,WARNING
+DQ-11,SBIN,2018-03,tax_percentage,Tax percentage out of normal range: -66.0%,WARNING
+DQ-11,SHREECEM,2015-06,tax_percentage,Tax percentage out of normal range: -6.0%,WARNING
+DQ-05,SUNPHARMA,2024-03,opm_percentage,"OPM mismatch: reported 28.0%, calculated 26.84%",WARNING
+DQ-11,TATACONSUM,2016-03,tax_percentage,Tax percentage out of normal range: 99.0%,WARNING
+DQ-11,TATAMOTORS,2019-03,tax_percentage,Tax percentage out of normal range: -8.0%,WARNING
+DQ-11,TATAMOTORS,2024-03,tax_percentage,Tax percentage out of normal range: -14.0%,WARNING
+DQ-11,TATAPOWER,2013-03,tax_percentage,Tax percentage out of normal range: 92.0%,WARNING
+DQ-14,TATAPOWER,2013-03,eps,"EPS negative or zero while net_profit > 0: EPS=0.0, PAT=123",WARNING
+DQ-11,TATAPOWER,2014-03,tax_percentage,Tax percentage out of normal range: 99.0%,WARNING
+DQ-14,TATAPOWER,2014-03,eps,"EPS negative or zero while net_profit > 0: EPS=-1.0, PAT=12",WARNING
+DQ-11,TATAPOWER,2015-03,tax_percentage,Tax percentage out of normal range: 72.0%,WARNING
+DQ-12,TATAPOWER,2015-03,dividend_payout,High dividend payout ratio: 210.0%,WARNING
+DQ-11,TATASTEEL,2013-03,tax_percentage,Tax percentage out of normal range: 78.0%,WARNING
+DQ-11,TATASTEEL,2015-03,tax_percentage,Tax percentage out of normal range: 99.0%,WARNING
+DQ-11,TATASTEEL,2016-03,tax_percentage,Tax percentage out of normal range: 99.0%,WARNING
+DQ-11,TATASTEEL,2017-03,tax_percentage,Tax percentage out of normal range: 99.0%,WARNING
+DQ-11,TATASTEEL,2020-03,tax_percentage,Tax percentage out of normal range: -99.0%,WARNING
+DQ-11,TATASTEEL,2024-03,tax_percentage,Tax percentage out of normal range: 99.0%,WARNING
+DQ-11,TRENT,2013-03,tax_percentage,Tax percentage out of normal range: 99.0%,WARNING
+DQ-11,TRENT,2014-03,tax_percentage,Tax percentage out of normal range: 99.0%,WARNING
+DQ-11,TRENT,2021-03,tax_percentage,Tax percentage out of normal range: -12.0%,WARNING
+DQ-11,TRENT,2022-03,tax_percentage,Tax percentage out of normal range: 69.0%,WARNING
+DQ-05,INDIGO,2013-03,opm_percentage,"OPM mismatch: reported 855.0%, calculated 90.71%",WARNING
+DQ-05,INDIGO,2014-03,opm_percentage,"OPM mismatch: reported 433.0%, calculated 96.11%",WARNING
+DQ-05,INDIGO,2015-03,opm_percentage,"OPM mismatch: reported 1904.0%, calculated 86.33%",WARNING
+DQ-05,INDIGO,2016-03,opm_percentage,"OPM mismatch: reported 3164.0%, calculated 80.40%",WARNING
+DQ-05,INDIGO,2017-03,opm_percentage,"OPM mismatch: reported 2219.0%, calculated 88.06%",WARNING
+DQ-05,INDIGO,2018-03,opm_percentage,"OPM mismatch: reported 3030.0%, calculated 86.84%",WARNING
+DQ-05,INDIGO,2019-03,opm_percentage,"OPM mismatch: reported -151.0%, calculated 100.53%",WARNING
+DQ-11,INDIGO,2019-03,tax_percentage,Tax percentage out of normal range: -99.0%,WARNING
+DQ-05,INDIGO,2020-03,opm_percentage,"OPM mismatch: reported 4069.0%, calculated 88.62%",WARNING
+DQ-11,INDIGO,2020-03,tax_percentage,Tax percentage out of normal range: -10.0%,WARNING
+DQ-05,INDIGO,2021-03,opm_percentage,"OPM mismatch: reported 2.0%, calculated 99.98%",WARNING
+DQ-05,INDIGO,2022-03,opm_percentage,"OPM mismatch: reported 558.0%, calculated 97.85%",WARNING
+DQ-05,INDIGO,2023-03,opm_percentage,"OPM mismatch: reported 6521.0%, calculated 88.02%",WARNING
+DQ-05,INDIGO,2024-03,opm_percentage,"OPM mismatch: reported 16331.0%, calculated 76.30%",WARNING
+DQ-11,INDIGO,2024-03,tax_percentage,Tax percentage out of normal range: -2.0%,WARNING
+DQ-05,INDIGO,PARSE_ERROR,opm_percentage,"OPM mismatch: reported 15908.0%, calculated 79.20%",WARNING
+DQ-09,TVSMOTOR,2022-03,net_cash_flow,"Net cash flow mismatch: reported=532.0, sum=-128.0",WARNING
+DQ-13,ADANIENSOL,2015,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,ADANIENSOL,2014,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,ADANIENSOL,2013,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,ADANIENSOL,2012,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,ADANIENSOL,2011,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,ADANIENSOL,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,ADANIENSOL,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,ADANIENT,2011,annual_report,Invalid annual report URL format: nan,WARNING
+DQ-13,ADANIENT,2010,annual_report,Invalid annual report URL format: nan,WARNING
+DQ-13,ADANIENT,2009,annual_report,Invalid annual report URL format: nan,WARNING
+DQ-13,ADANIGREEN,2017,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,ADANIGREEN,2016,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,ADANIGREEN,2015,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,ADANIGREEN,2014,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,ADANIGREEN,2013,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,ADANIGREEN,2012,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,ADANIGREEN,2011,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,ADANIGREEN,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,ADANIGREEN,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,ADANIPORTS,2019,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,ADANIPORTS,2018,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,ADANIPORTS,2017,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,ADANIPORTS,2015,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,ADANIPORTS,2014,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,ADANIPORTS,2013,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,ADANIPORTS,2012,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,ADANIPORTS,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,ADANIPORTS,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,ADANIPOWER,2015,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,ADANIPOWER,2014,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,ADANIPOWER,2013,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,ADANIPOWER,2011,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,ADANIPOWER,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,ADANIPOWER,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,AMBUJACEM,2014,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,AMBUJACEM,2013,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,AMBUJACEM,2012,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,AMBUJACEM,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,AMBUJACEM,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,APOLLOHOSP,2019,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,APOLLOHOSP,2015,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,APOLLOHOSP,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,APOLLOHOSP,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,ASIANPAINT,2013,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,ASIANPAINT,2012,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,ASIANPAINT,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,ASIANPAINT,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,ATGL,2018,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,ATGL,2017,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,ATGL,2016,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,ATGL,2015,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,ATGL,2014,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,ATGL,2013,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,ATGL,2012,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,ATGL,2011,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,ATGL,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,ATGL,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,AXISBANK,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,AXISBANK,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,BAJAJ-AUTO,2014,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,BAJAJ-AUTO,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,BAJAJ-AUTO,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,BAJAJFINSV,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,BAJAJFINSV,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,BAJAJHLDNG,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,BAJAJHLDNG,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,BAJFINANCE,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,BAJFINANCE,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,BANKBARODA,2010,annual_report,Invalid annual report URL format: nan,WARNING
+DQ-13,BANKBARODA,2009,annual_report,Invalid annual report URL format: nan,WARNING
+DQ-13,BEL,2022,annual_report,Invalid annual report URL format: nan,WARNING
+DQ-13,BEL,2019,annual_report,Invalid annual report URL format: nan,WARNING
+DQ-13,BEL,2015,annual_report,Invalid annual report URL format: nan,WARNING
+DQ-13,BEL,2012,annual_report,Invalid annual report URL format: nan,WARNING
+DQ-13,BEL,2011,annual_report,Invalid annual report URL format: nan,WARNING
+DQ-13,BEL,2010,annual_report,Invalid annual report URL format: nan,WARNING
+DQ-13,BEL,2009,annual_report,Invalid annual report URL format: nan,WARNING
+DQ-13,BHARTIARTL,2021,annual_report,Invalid annual report URL format: nan,WARNING
+DQ-13,BHARTIARTL,2018,annual_report,Invalid annual report URL format: nan,WARNING
+DQ-13,BHARTIARTL,2011,annual_report,Invalid annual report URL format: nan,WARNING
+DQ-13,BHARTIARTL,2010,annual_report,Invalid annual report URL format: nan,WARNING
+DQ-13,BHARTIARTL,2009,annual_report,Invalid annual report URL format: nan,WARNING
+DQ-13,BHEL,2015,annual_report,Invalid annual report URL format: nan,WARNING
+DQ-13,BHEL,2014,annual_report,Invalid annual report URL format: nan,WARNING
+DQ-13,BHEL,2013,annual_report,Invalid annual report URL format: nan,WARNING
+DQ-13,BHEL,2012,annual_report,Invalid annual report URL format: nan,WARNING
+DQ-13,BHEL,2011,annual_report,Invalid annual report URL format: nan,WARNING
+DQ-13,BHEL,2010,annual_report,Invalid annual report URL format: nan,WARNING
+DQ-13,BHEL,2009,annual_report,Invalid annual report URL format: nan,WARNING
+DQ-13,BOSCHLTD,2019,annual_report,Invalid annual report URL format: nan,WARNING
+DQ-13,BOSCHLTD,2018,annual_report,Invalid annual report URL format: nan,WARNING
+DQ-13,BOSCHLTD,2017,annual_report,Invalid annual report URL format: nan,WARNING
+DQ-13,BOSCHLTD,2014,annual_report,Invalid annual report URL format: nan,WARNING
+DQ-13,BOSCHLTD,2013,annual_report,Invalid annual report URL format: nan,WARNING
+DQ-13,BOSCHLTD,2012,annual_report,Invalid annual report URL format: nan,WARNING
+DQ-13,BOSCHLTD,2011,annual_report,Invalid annual report URL format: nan,WARNING
+DQ-13,BOSCHLTD,2010,annual_report,Invalid annual report URL format: nan,WARNING
+DQ-13,BOSCHLTD,2009,annual_report,Invalid annual report URL format: nan,WARNING
+DQ-13,BPCL,2022,annual_report,Invalid annual report URL format: nan,WARNING
+DQ-13,BPCL,2019,annual_report,Invalid annual report URL format: nan,WARNING
+DQ-13,BPCL,2016,annual_report,Invalid annual report URL format: nan,WARNING
+DQ-13,BPCL,2015,annual_report,Invalid annual report URL format: nan,WARNING
+DQ-13,BPCL,2010,annual_report,Invalid annual report URL format: nan,WARNING
+DQ-13,BPCL,2009,annual_report,Invalid annual report URL format: nan,WARNING
+DQ-13,BRITANNIA,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,BRITANNIA,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,CANBK,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,CANBK,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,CHOLAFIN,2015,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,CHOLAFIN,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,CHOLAFIN,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,CIPLA,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,CIPLA,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,COALINDIA,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,DABUR,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,DABUR,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,DLF,2018,annual_report,Invalid annual report URL format: nan,WARNING
+DQ-13,DLF,2017,annual_report,Invalid annual report URL format: nan,WARNING
+DQ-13,DLF,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,DLF,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,DMART,2016,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,DMART,2015,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,DMART,2014,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,DMART,2013,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,DMART,2012,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,DMART,2011,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,DMART,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,DMART,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,DRREDDY,2011,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,DRREDDY,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,DRREDDY,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,EICHERMOT,2019,annual_report,Invalid annual report URL format: nan,WARNING
+DQ-13,EICHERMOT,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,EICHERMOT,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,GAIL,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,GAIL,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,GODREJCP,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,GODREJCP,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,GRASIM,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,GRASIM,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,HAL,2011,annual_report,Invalid annual report URL format: nan,WARNING
+DQ-13,HAL,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,HAVELLS,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,HAVELLS,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,HCLTECH,2011,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,HCLTECH,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,HCLTECH,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,HDFCBANK,2013,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,HDFCBANK,2011,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,HDFCBANK,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,HDFCBANK,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,HDFCLIFE,2012,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,HDFCLIFE,2011,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,HDFCLIFE,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,HDFCLIFE,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,HDFCLIFE,2008,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,HEROMOTOCO,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,HEROMOTOCO,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,HINDALCO,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,HINDALCO,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,HINDUNILVR,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,HINDUNILVR,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,ICICIBANK,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,ICICIGI,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,ICICIPRULI,2011,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,ICICIPRULI,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,ICICIPRULI,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,INDIGO,2015,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,INDIGO,2014,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,INDIGO,2013,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,INDIGO,2012,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,INDIGO,2011,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,INDIGO,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,INDIGO,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,INDUSINDBK,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,INDUSINDBK,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,INFY,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,INFY,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,IOC,2024,annual_report,Invalid annual report URL format: bseindia.com/xml-data/corpfiling/AttachHis/24a0940c-fa5a-4e36-a404-9dab3637ea0c.pdf,WARNING
+DQ-13,IOC,2023,annual_report,Invalid annual report URL format: bseindia.com/xml-data/corpfiling/AttachHis//ae413f27-7b30-4cdb-8f1b-8d82e5914e54.pdf,WARNING
+DQ-13,IOC,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,IOC,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,IRCTC,2019,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,IRCTC,2018,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,IRCTC,2017,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,IRCTC,2016,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,IRCTC,2015,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,IRCTC,2014,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,IRCTC,2013,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,IRCTC,2012,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,IRCTC,2011,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,IRCTC,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,IRCTC,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,IRFC,2020,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,IRFC,2019,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,IRFC,2018,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,IRFC,2017,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,IRFC,2016,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,IRFC,2015,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,IRFC,2014,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,IRFC,2013,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,IRFC,2012,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,IRFC,2011,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,IRFC,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,IRFC,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,ITC,2011,annual_report,Invalid annual report URL format: nan,WARNING
+DQ-13,ITC,2010,annual_report,Invalid annual report URL format: nan,WARNING
+DQ-13,ITC,2009,annual_report,Invalid annual report URL format: nan,WARNING
+DQ-13,JINDALSTEL,2010,annual_report,Invalid annual report URL format: nan,WARNING
+DQ-13,JINDALSTEL,2009,annual_report,Invalid annual report URL format: nan,WARNING
+DQ-13,JIOFIN,2023,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,JIOFIN,2022,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,JIOFIN,2021,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,JIOFIN,2020,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,JIOFIN,2019,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,JIOFIN,2018,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,JIOFIN,2017,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,JIOFIN,2016,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,JIOFIN,2015,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,JIOFIN,2014,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,JIOFIN,2013,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,JIOFIN,2012,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,JIOFIN,2011,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,JIOFIN,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,JIOFIN,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,JSWENERGY,2011,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,JSWENERGY,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,JSWENERGY,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,JSWSTEEL,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,JSWSTEEL,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,KOTAKBANK,2023,annual_report,Invalid annual report URL format: bseindia.com/xml-data/corpfiling/AttachHis//b9e0c871-3353-4ef4-855e-069bcfd848e1.pdf,WARNING
+DQ-13,KOTAKBANK,2022,annual_report,Invalid annual report URL format: bseindia.com/bseplus/AnnualReport/500247/73932500247.pdf,WARNING
+DQ-13,KOTAKBANK,2021,annual_report,Invalid annual report URL format: bseindia.com/bseplus/AnnualReport/500247/69160500247.pdf,WARNING
+DQ-13,KOTAKBANK,2017,annual_report,Invalid annual report URL format: bseindia.com/bseplus/AnnualReport/500247/5002470317.pdf,WARNING
+DQ-13,KOTAKBANK,2016,annual_report,Invalid annual report URL format: 5002470316.pdf,WARNING
+DQ-13,KOTAKBANK,2015,annual_report,Invalid annual report URL format: 5002470315.pdf,WARNING
+DQ-13,KOTAKBANK,2013,annual_report,Invalid annual report URL format: untitled,WARNING
+DQ-13,KOTAKBANK,2012,annual_report,Invalid annual report URL format: bseindia.com/bseplus/AnnualReport/500247/5002470312.pdf,WARNING
+DQ-13,KOTAKBANK,2011,annual_report,Invalid annual report URL format: 5002470311.pdf,WARNING
+DQ-13,KOTAKBANK,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,KOTAKBANK,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,LICI,2018,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,LICI,2017,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,LICI,2016,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,LICI,2015,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,LICI,2014,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,LICI,2013,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,LICI,2012,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,LICI,2011,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,LICI,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,LICI,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,LODHA,2020,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,LODHA,2019,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,LODHA,2018,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,LODHA,2017,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,LODHA,2016,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,LODHA,2015,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,LODHA,2014,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,LODHA,2013,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,LODHA,2012,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,LODHA,2011,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,LODHA,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,LODHA,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,LT,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,LT,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,LTIM,2016,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,LTIM,2015,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,LTIM,2014,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,LTIM,2013,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,LTIM,2012,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,LTIM,2011,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,LTIM,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,LTIM,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,M&M,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,M&M,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,MARUTI,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,MARUTI,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,MOTHERSON,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,MOTHERSON,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,NAUKRI,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,NAUKRI,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,NESTLEIND,2023,annual_report,Invalid annual report URL format: nan,WARNING
+DQ-13,NHPC,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,NHPC,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,NTPC,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,NTPC,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,ONGC,2011,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,ONGC,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,ONGC,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,PFC,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,PFC,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,PIDILITIND,2011,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,PIDILITIND,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,PIDILITIND,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,PNB,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,PNB,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,POWERGRID,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,POWERGRID,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,RECLTD,2011,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,RECLTD,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,RECLTD,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,RELIANCE,2011,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,RELIANCE,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,RELIANCE,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,SBILIFE,2017,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,SBILIFE,2016,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,SBILIFE,2015,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,SBILIFE,2014,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,SBILIFE,2013,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,SBILIFE,2012,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,SBILIFE,2011,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,SBILIFE,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,SBILIFE,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,SBIN,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,SHREECEM,2011,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,SHREECEM,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,SHREECEM,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,SHRIRAMFIN,2011,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,SHRIRAMFIN,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,SHRIRAMFIN,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,SIEMENS,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,SIEMENS,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,SUNPHARMA,2011,annual_report,Invalid annual report URL format: nan,WARNING
+DQ-13,SUNPHARMA,2010,annual_report,Invalid annual report URL format: nan,WARNING
+DQ-13,SUNPHARMA,2009,annual_report,Invalid annual report URL format: nan,WARNING
+DQ-13,TATACONSUM,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,TATACONSUM,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,TATAMOTORS,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,TATAMOTORS,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,TATAPOWER,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,TATAPOWER,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,TATASTEEL,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,TATASTEEL,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,TCS,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,TCS,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,TECHM,2012,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,TECHM,2011,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,TECHM,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,TECHM,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,TITAN,2011,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,TITAN,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,TITAN,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,TORNTPHARM,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,TORNTPHARM,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,TRENT,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,TRENT,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,TVSMOTOR,2010,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-13,TVSMOTOR,2009,annual_report,Invalid annual report URL format: Null,WARNING
+DQ-16,JIOFIN,N/A,year,Historical coverage < 5 years (3 years found),WARNING

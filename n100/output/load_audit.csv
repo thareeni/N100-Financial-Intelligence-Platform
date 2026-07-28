@@ -1,0 +1,11 @@
+table_name,source_file,rows_in,rows_out,rejected,status,runtime_s,timestamp
+companies,companies.xlsx,92,92,0,SUCCESS,0.006,2026-07-28 22:43:40
+profitandloss,profitandloss.xlsx,1276,1164,112,WARNING_REJECTIONS,0.0119,2026-07-28 22:43:40
+balancesheet,balancesheet.xlsx,1312,1140,172,WARNING_REJECTIONS,0.0105,2026-07-28 22:43:40
+cashflow,cashflow.xlsx,1187,1056,131,WARNING_REJECTIONS,0.0089,2026-07-28 22:43:40
+analysis,analysis.xlsx,20,16,4,WARNING_REJECTIONS,0.0045,2026-07-28 22:43:40
+documents,documents.xlsx,1585,1457,128,WARNING_REJECTIONS,0.0099,2026-07-28 22:43:40
+prosandcons,prosandcons.xlsx,16,14,2,WARNING_REJECTIONS,0.0026,2026-07-28 22:43:40
+sectors,supporting datasets\sectors.xlsx,92,92,0,SUCCESS,0.0056,2026-07-28 22:43:40
+stock_prices,supporting datasets\stock_prices.xlsx,5520,5520,0,SUCCESS,0.0255,2026-07-28 22:43:40
+market_cap,supporting datasets\market_cap.xlsx,552,552,0,SUCCESS,0.007,2026-07-28 22:43:40
