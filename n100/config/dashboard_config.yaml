@@ -1,0 +1,23 @@
+# Dashboard Configuration
+
+database:
+  path: "nifty100.db"
+
+paths:
+  output_dir: "output"
+  reports_dir: "reports/radar_charts"
+  screener_output: "output/screener_output.xlsx"
+  peer_comparison: "output/peer_comparison.xlsx"
+  investment_intelligence: "output/investment_intelligence.xlsx"
+
+dashboard_settings:
+  title: "Nifty 100 Financial Intelligence Platform"
+  page_icon: "📊"
+  layout: "wide"
+  initial_sidebar_state: "expanded"
+
+theme:
+  primary_color: "#1F4E78"
+  background_color: "#FFFFFF"
+  secondary_background_color: "#F8F9FA"
+  text_color: "#333333"

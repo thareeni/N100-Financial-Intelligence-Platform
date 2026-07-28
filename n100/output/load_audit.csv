@@ -1,24 +1,11 @@
 table_name,source_file,rows_in,rows_out,rejected,status,runtime_s,timestamp
-<<<<<<< HEAD
-companies,companies.xlsx,92,92,0,SUCCESS,0.006,2026-07-28 22:43:40
-profitandloss,profitandloss.xlsx,1276,1164,112,WARNING_REJECTIONS,0.0119,2026-07-28 22:43:40
-balancesheet,balancesheet.xlsx,1312,1140,172,WARNING_REJECTIONS,0.0105,2026-07-28 22:43:40
-cashflow,cashflow.xlsx,1187,1056,131,WARNING_REJECTIONS,0.0089,2026-07-28 22:43:40
-analysis,analysis.xlsx,20,16,4,WARNING_REJECTIONS,0.0045,2026-07-28 22:43:40
-documents,documents.xlsx,1585,1457,128,WARNING_REJECTIONS,0.0099,2026-07-28 22:43:40
-prosandcons,prosandcons.xlsx,16,14,2,WARNING_REJECTIONS,0.0026,2026-07-28 22:43:40
-sectors,supporting datasets\sectors.xlsx,92,92,0,SUCCESS,0.0056,2026-07-28 22:43:40
-stock_prices,supporting datasets\stock_prices.xlsx,5520,5520,0,SUCCESS,0.0255,2026-07-28 22:43:40
-market_cap,supporting datasets\market_cap.xlsx,552,552,0,SUCCESS,0.007,2026-07-28 22:43:40
-=======
-companies,companies.xlsx,92,92,0,SUCCESS,0.005,2026-07-28 21:59:34
-profitandloss,profitandloss.xlsx,1276,1164,112,WARNING_REJECTIONS,0.009,2026-07-28 21:59:34
-balancesheet,balancesheet.xlsx,1312,1140,172,WARNING_REJECTIONS,0.0065,2026-07-28 21:59:34
-cashflow,cashflow.xlsx,1187,1056,131,WARNING_REJECTIONS,0.0075,2026-07-28 21:59:34
-analysis,analysis.xlsx,20,16,4,WARNING_REJECTIONS,0.0032,2026-07-28 21:59:34
-documents,documents.xlsx,1585,1457,128,WARNING_REJECTIONS,0.0063,2026-07-28 21:59:34
-prosandcons,prosandcons.xlsx,16,14,2,WARNING_REJECTIONS,0.004,2026-07-28 21:59:34
-sectors,supporting datasets\sectors.xlsx,92,92,0,SUCCESS,0.0035,2026-07-28 21:59:34
-stock_prices,supporting datasets\stock_prices.xlsx,5520,5520,0,SUCCESS,0.018,2026-07-28 21:59:34
-market_cap,supporting datasets\market_cap.xlsx,552,552,0,SUCCESS,0.0051,2026-07-28 21:59:34
->>>>>>> f81a2dbcaaaeea2037fd8e762649a9c1a489d5d3
+companies,companies.xlsx,92,92,0,SUCCESS,0.0116,2026-07-28 23:30:47
+profitandloss,profitandloss.xlsx,1276,1164,112,WARNING_REJECTIONS,0.0214,2026-07-28 23:30:47
+balancesheet,balancesheet.xlsx,1312,1140,172,WARNING_REJECTIONS,0.0243,2026-07-28 23:30:47
+cashflow,cashflow.xlsx,1187,1056,131,WARNING_REJECTIONS,0.0208,2026-07-28 23:30:47
+analysis,analysis.xlsx,20,16,4,WARNING_REJECTIONS,0.0105,2026-07-28 23:30:47
+documents,documents.xlsx,1585,1457,128,WARNING_REJECTIONS,0.0203,2026-07-28 23:30:47
+prosandcons,prosandcons.xlsx,16,14,2,WARNING_REJECTIONS,0.012,2026-07-28 23:30:47
+sectors,supporting datasets\sectors.xlsx,92,92,0,SUCCESS,0.0138,2026-07-28 23:30:47
+stock_prices,supporting datasets\stock_prices.xlsx,5520,5520,0,SUCCESS,0.0659,2026-07-28 23:30:47
+market_cap,supporting datasets\market_cap.xlsx,552,552,0,SUCCESS,0.0193,2026-07-28 23:30:47

@@ -12,7 +12,8 @@ CREATE TABLE companies (
     bse_code VARCHAR,
     isin VARCHAR UNIQUE,
     company_logo VARCHAR,
-    chart_link VARCHAR
+    chart_link VARCHAR,
+    face_value NUMERIC
 );
 
 -- 2. Annual Profit & Loss Data
@@ -93,7 +94,7 @@ DROP TABLE IF EXISTS documents;
 CREATE TABLE documents (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     company_id VARCHAR NOT NULL,
-    title TEXT NOT NULL,
+    title TEXT,
     document_type TEXT,
     date TEXT,
     url TEXT,
@@ -115,9 +116,9 @@ CREATE TABLE prosandcons (
 DROP TABLE IF EXISTS sectors;
 CREATE TABLE sectors (
     company_id VARCHAR PRIMARY KEY,
-    company_name VARCHAR NOT NULL,
-    broad_sector VARCHAR NOT NULL,
-    sub_sector VARCHAR NOT NULL,
+    company_name VARCHAR,
+    broad_sector VARCHAR,
+    sub_sector VARCHAR,
     index_weight_pct NUMERIC,
     market_cap_category VARCHAR,
     FOREIGN KEY (company_id) REFERENCES companies(id) ON DELETE CASCADE
