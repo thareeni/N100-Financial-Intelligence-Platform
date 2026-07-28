@@ -4,7 +4,7 @@ A production-grade Python and SQLite financial analytics, stock screening, peer 
 
 ---
 
-## 🌟 Key Features
+## 🌟 Key Features & Capabilities
 
 1. **Data Foundation & Ingestion Engine (Sprint 1)**:
    - Automated ingestion of 12 Excel financial datasets into SQLite (`nifty100.db`).
@@ -33,6 +33,10 @@ A production-grade Python and SQLite financial analytics, stock screening, peer 
    - Interactive 5-page Streamlit production dashboard (`streamlit run dashboard/app.py`).
    - Containerized deployment (`Dockerfile`, `.env.template`, `.github/workflows/test.yml`).
 
+6. **QA, Final Validation & Reporting (Sprint 6)**:
+   - Automated end-to-end QA validation suite (`tests/test_final_validation.py`).
+   - Project Health Report Generator (`src/final_report.py` -> `output/final_project_report.xlsx`).
+
 ---
 
 ## 🏗️ Architecture & Data Flow
@@ -59,7 +63,10 @@ A production-grade Python and SQLite financial analytics, stock screening, peer 
  [src/analytics/investment_score.py (Sprint 4)] ──► [output/investment_intelligence.xlsx]
                  │  (Health, DuPont, Valuation, Investment Score)
                  ▼
- [dashboard/app.py (Sprint 5 Streamlit Dashboard)]
+ [src/main.py (Pipeline Orchestration)]
+                 │
+                 ▼
+ [dashboard/app.py (Sprint 5 Streamlit Production Dashboard)]
 ```
 
 ---
@@ -111,8 +118,15 @@ make dashboard
 ```
 Access dashboard in your web browser at: `http://localhost:8501`.
 
-### 3. Run Unit Test Suite
-Execute all 100+ pytest unit & integration tests with HTML report generation:
+### 3. Generate Final Project Health Report
+```bash
+python src/final_report.py
+# or using Makefile:
+make final
+```
+
+### 4. Run Unit Test Suite
+Execute all pytest unit & integration tests with HTML report generation:
 ```bash
 pytest tests/ --html=output/pytest_report.html --self-contained-html
 # or using Makefile:
@@ -121,9 +135,9 @@ make test
 
 ---
 
-## 📊 Dashboard Pages Overview
+## 📊 Dashboard Overview & Page Structure
 
-1. **Page 1: Nifty 100 Overview**: Total companies, sector counts, total market cap, median P/E, sector distribution chart.
+1. **Page 1: Nifty 100 Overview**: Total companies, sector counts, total market cap, median P/E, sector distribution bar chart.
 2. **Page 2: Stock Screener**: Interactive filtering across all 6 preset screeners with sector, quality score, and ROE sliders.
 3. **Page 3: Investment Intelligence**: Ranked list of top investment opportunities, metric cards for Strong Buy / Buy / Hold / Avoid counts.
 4. **Page 4: Peer Comparison**: Intra-group metric tables, percentile ranks, and 8-axis radar chart PNG viewer.
@@ -139,6 +153,7 @@ make test
 | `output/screener_output.xlsx` | 6 Preset Screener Sheets with 20 KPI columns & threshold color fills |
 | `output/peer_comparison.xlsx` | 11 Peer Group sheets with percentile ranks & median summary rows |
 | `output/investment_intelligence.xlsx` | 5-sheet Investment Intelligence report (Top 20 opportunities, Health, DuPont, Valuation, Risk Flags) |
+| `output/final_project_report.xlsx` | Sprint 6 Final Project Health & QA Report |
 | `output/capital_allocation.csv` | 8-pattern Capital Allocation classifications for 92 companies |
 | `output/load_audit.csv` | ETL Ingestion Row Count Audit Log |
 | `output/validation_failures.csv` | Data Quality Rules DQ-01 to DQ-16 log |
@@ -148,10 +163,11 @@ make test
 
 ---
 
-## 🏆 Sprint Completion Summary
+## 🏆 Sprint Completion Summary (Sprints 1 to 6)
 
 - **Sprint 1**: Data Foundation & ETL Pipeline (10 core tables, 16 DQ rules, 42 tests).
 - **Sprint 2**: Financial Ratio Engine & CAGR Engine (Populated `financial_ratios`, 30 tests).
 - **Sprint 3**: Stock Screener & Peer Comparison Engine (Composite Quality Score, 6 Presets, Radar Charts, 12 tests).
 - **Sprint 4**: Advanced Analytics & Investment Intelligence (Altman Z, Beneish M, DuPont, Valuation, Investment Score, 11 tests).
 - **Sprint 5**: Production Readiness, Single-Command Pipeline, Interactive Streamlit Dashboard, Docker, CI/CD Workflow.
+- **Sprint 6**: Final Production Validation (`test_final_validation.py`), Project Health Report Generator (`final_project_report.xlsx`), Documentation & Quality Assurance.

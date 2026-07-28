@@ -1,4 +1,4 @@
-.PHONY: run dashboard load ratios screener peer health dupont valuation investment test clean format lint
+.PHONY: run dashboard load ratios screener peer health dupont valuation investment final test clean format lint
 
 run:
 	python src/main.py
@@ -29,6 +29,9 @@ valuation:
 
 investment:
 	python -m src.analytics.investment_score
+
+final:
+	python src/final_report.py
 
 test:
 	pytest tests/ --html=output/pytest_report.html --self-contained-html
