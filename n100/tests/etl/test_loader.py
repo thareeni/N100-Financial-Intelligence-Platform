@@ -45,10 +45,13 @@ def test_loader_db_execution():
     fk_violations = cursor.fetchall()
     assert len(fk_violations) == 0, f"Foreign key violations found: {fk_violations}"
 
+<<<<<<< HEAD
     # Re-run ratio & peer engines to preserve downstream tables for test suite isolation
     from src.analytics.runner import RatioEngineRunner
     from src.analytics.peer import PeerComparisonEngine
     RatioEngineRunner().run()
     PeerComparisonEngine().compute_peer_percentiles()
 
+=======
+>>>>>>> f81a2dbcaaaeea2037fd8e762649a9c1a489d5d3
     conn.close()

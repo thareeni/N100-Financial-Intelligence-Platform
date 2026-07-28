@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 .PHONY: load ratios screener peer test clean format lint
+=======
+.PHONY: load ratios test clean format lint
+>>>>>>> f81a2dbcaaaeea2037fd8e762649a9c1a489d5d3
 
 load:
 	python -m src.etl.loader
@@ -6,12 +10,15 @@ load:
 ratios:
 	python -m src.analytics.runner
 
+<<<<<<< HEAD
 screener:
 	python -m src.screener.engine
 
 peer:
 	python -m src.analytics.peer
 
+=======
+>>>>>>> f81a2dbcaaaeea2037fd8e762649a9c1a489d5d3
 test:
 	pytest tests/ --html=output/pytest_report.html --self-contained-html
 

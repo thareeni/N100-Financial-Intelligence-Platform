@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 -- Nifty 100 Financial Intelligence Platform - SQLite Database Schema (Sprint 1, 2 & 3)
+=======
+-- Nifty 100 Financial Intelligence Platform - SQLite Database Schema (Sprint 1 & Sprint 2)
+>>>>>>> f81a2dbcaaaeea2037fd8e762649a9c1a489d5d3
 
 PRAGMA foreign_keys = ON;
 
@@ -155,16 +159,28 @@ CREATE TABLE financial_ratios (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     company_id VARCHAR NOT NULL,
     year VARCHAR NOT NULL,
+<<<<<<< HEAD
+=======
+    -- Profitability KPIs
+>>>>>>> f81a2dbcaaaeea2037fd8e762649a9c1a489d5d3
     net_profit_margin_pct NUMERIC,
     operating_profit_margin_pct NUMERIC,
     return_on_equity_pct NUMERIC,
     return_on_capital_employed_pct NUMERIC,
     return_on_assets_pct NUMERIC,
+<<<<<<< HEAD
+=======
+    -- Leverage & Efficiency KPIs
+>>>>>>> f81a2dbcaaaeea2037fd8e762649a9c1a489d5d3
     debt_to_equity NUMERIC,
     interest_coverage NUMERIC,
     net_debt_cr NUMERIC,
     asset_turnover NUMERIC,
     total_debt_cr NUMERIC,
+<<<<<<< HEAD
+=======
+    -- Cash Quality & Flow KPIs
+>>>>>>> f81a2dbcaaaeea2037fd8e762649a9c1a489d5d3
     cash_from_operations_cr NUMERIC,
     free_cash_flow_cr NUMERIC,
     capex_cr NUMERIC,
@@ -172,9 +188,17 @@ CREATE TABLE financial_ratios (
     capex_intensity_pct NUMERIC,
     fcf_conversion_rate_pct NUMERIC,
     capital_allocation_pattern TEXT,
+<<<<<<< HEAD
     earnings_per_share NUMERIC,
     book_value_per_share NUMERIC,
     dividend_payout_ratio_pct NUMERIC,
+=======
+    -- Equity & Share Valuation Inputs
+    earnings_per_share NUMERIC,
+    book_value_per_share NUMERIC,
+    dividend_payout_ratio_pct NUMERIC,
+    -- Growth CAGRs
+>>>>>>> f81a2dbcaaaeea2037fd8e762649a9c1a489d5d3
     revenue_cagr_3yr NUMERIC,
     revenue_cagr_5yr NUMERIC,
     revenue_cagr_10yr NUMERIC,
@@ -182,12 +206,17 @@ CREATE TABLE financial_ratios (
     pat_cagr_5yr NUMERIC,
     pat_cagr_10yr NUMERIC,
     eps_cagr_5yr NUMERIC,
+<<<<<<< HEAD
+=======
+    -- Growth Flags
+>>>>>>> f81a2dbcaaaeea2037fd8e762649a9c1a489d5d3
     revenue_cagr_5yr_flag TEXT,
     pat_cagr_5yr_flag TEXT,
     UNIQUE (company_id, year),
     FOREIGN KEY (company_id) REFERENCES companies(id) ON DELETE CASCADE
 );
 
+<<<<<<< HEAD
 -- 12. Sprint 3: Peer Comparison Groups Table
 DROP TABLE IF EXISTS peer_groups;
 CREATE TABLE peer_groups (
@@ -213,6 +242,8 @@ CREATE TABLE peer_percentiles (
     FOREIGN KEY (company_id) REFERENCES companies(id) ON DELETE CASCADE
 );
 
+=======
+>>>>>>> f81a2dbcaaaeea2037fd8e762649a9c1a489d5d3
 -- Indexes for performance
 CREATE INDEX IF NOT EXISTS idx_pl_company ON profitandloss(company_id);
 CREATE INDEX IF NOT EXISTS idx_bs_company ON balancesheet(company_id);
@@ -221,5 +252,8 @@ CREATE INDEX IF NOT EXISTS idx_docs_company ON documents(company_id);
 CREATE INDEX IF NOT EXISTS idx_sp_company_date ON stock_prices(company_id, date);
 CREATE INDEX IF NOT EXISTS idx_mc_company_year ON market_cap(company_id, year);
 CREATE INDEX IF NOT EXISTS idx_fr_company_year ON financial_ratios(company_id, year);
+<<<<<<< HEAD
 CREATE INDEX IF NOT EXISTS idx_pg_company ON peer_groups(company_id);
 CREATE INDEX IF NOT EXISTS idx_pp_company_metric ON peer_percentiles(company_id, peer_group_name, metric);
+=======
+>>>>>>> f81a2dbcaaaeea2037fd8e762649a9c1a489d5d3
